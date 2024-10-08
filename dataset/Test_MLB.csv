@@ -1,0 +1,1001 @@
+EmployeeID,Age,TravelProfile,Department,HomeToWork,EducationField,Gender,HourlnWeek,Involvement,WorkLifeBalance,Designation,JobSatisfaction,ESOPs,NumCompaniesWorked,OverTime,SalaryHikelastYear,WorkExperience,LastPromotion,CurrentProfile,MaritalStatus,MonthlyIncome
+5114181,38,Rarely,Analytics,8,CA,Male,63,3,5,Manager,1,1,8,0,22,9,1,5,Married,22347
+5114182,31,Yes,Analytics,1,Statistics,Male,48,5,2,Manager,5,1,1,0,26,10,8,7,Married,20003
+5114183,32,Yes,Sales,5,Statistics,Female,62,4,5,Executive,1,0,8,0,20,4,1,,Single,18785
+5114184,29,Rarely,Analytics,,Statistics,Female,63,3,4,Executive,2,1,4,0,27,11,1,7,M,17514
+5114185,38,Rarely,Sales,1,Statistics,F,59,4,4,Manager,2,0,4,0,27,12,0,3,Single,23686
+5114186,36,Rarely,Sales,3,CA,Male,61,4,1,Senior Manager,3,0,1,0,18,10,9,0,Divorsed,22596
+5114187,40,Rarely,Analytics,6,CA,Male,78,4,3,Manager,3,1,1,0,21,12,1,,Married,19069
+5114188,,Rarely,Sales,8,Statistics,Male,,3,5,Executive,1,1,1,1,26,3,0,2,M,17275
+5114189,33,Yes,Analytics,1,Statistics,F,68,3,1,Senior Manager,1,1,1,1,17,15,8,12,Single,28458
+5114190,33,Rarely,Analytics,1,CA,F,65,2,5,AVP,3,1,4,0,24,10,0,5,Married,
+5114191,34,Yes,Analytics,6,Statistics,Male,72,3,3,Executive,5,0,2,1,17,11,10,8,Single,19348
+5114192,29,Rarely,Sales,,Marketing Diploma,Female,52,5,1,Executive,4,1,1,0,18,2,2,2,Single,17760
+5114193,29,Yes,Analytics,5,Statistics,Male,54,4,1,Executive,2,1,2,1,18,3,3,3,Divorsed,19867
+5114194,,Yes,Analytics,5,Engineer,Male,,3,5,Executive,2,0,18,1,28,3,0,0,Single,17285
+5114195,40,Rarely,Sales,23,Marketing Diploma,Male,68,4,4,Manager,3,0,2,1,17,,1,0,Divorsed,21380
+5114196,40,Rarely,Analytics,13,CA,Male,78,3,3,Manager,5,0,3,0,19,,8,8,Married,21377
+5114197,32,No,Analytics,3,CA,Male,62,5,3,Manager,3,0,1,0,18,7,2,5,Divorsed,20345
+5114198,50,Rarely,Sales,9,Marketing Diploma,Male,54,3,4,Executive,4,0,7,0,20,4,2,,Divorsed,18875
+5114199,25,Rarely,Sales,20,Marketing Diploma,Male,,4,5,Executive,4,0,1,1,23,1,0,0,Divorsed,17413
+5114200,40,Yes,Analytics,5,Statistics,Male,56,3,4,AVP,2,1,8,0,17,22,12,6,Married,28169
+5114201,26,Rarely,Sales,22,Marketing Diploma,Male,38,4,1,Executive,4,0,2,1,24,2,1,1,M,18413
+5114202,28,Rarely,Analytics,4,CA,F,63,3,1,Senior Manager,4,0,0,0,22,10,1,7,Married,22655
+5114203,49,Yes,Analytics,7,CA,Male,61,4,5,AVP,1,1,3,0,31,24,3,3,Married,31202
+5114204,40,No,Analytics,10,Statistics,Male,63,4,1,Manager,2,1,9,0,19,5,0,2,Divorsed,19876
+5114205,36,Rarely,Analytics,1,Other,Female,35,3,2,Manager,4,0,0,0,20,10,0,5,Married,20228
+5114206,51,Rarely,Analytics,12,Engineer,F,52,4,5,AVP,4,0,3,0,21,29,0,3,Single,28142
+5114207,,Rarely,Sales,8,Statistics,Male,,4,1,Executive,3,1,3,0,20,13,5,2,Divorsed,17329
+5114208,37,Rarely,Analytics,22,Statistics,Male,65,1,5,Executive,5,0,1,1,17,8,1,7,M,18564
+5114209,38,Rarely,Analytics,10,Statistics,Male,71,3,3,Executive,1,0,2,0,24,10,0,3,Married,19771
+5114210,41,No,Analytics,12,Statistics,Male,65,4,1,Manager,2,0,10,0,20,6,,3,Divorsed,20876
+5114211,,Rarely,Sales,11,Statistics,Female,,3,4,Executive,3,0,1,1,24,1,0,0,M,17220
+5114212,40,Rarely,Analytics,3,CA,Male,49,3,4,VP,3,1,0,0,24,22,3,9,Married,34436
+5114213,28,Rarely,Analytics,28,CA,Female,39,5,3,Manager,5,0,0,0,26,6,0,0,Married,19877
+5114214,27,Rarely,Analytics,9,Other,Female,48,4,5,,4,1,2,0,25,6,5,4,M,18368
+5114215,40,Rarely,Analytics,3,CA,Female,78,4,3,Manager,3,0,6,0,27,20,0,0,Divorsed,18448
+5114216,35,Rarely,Sales,27,CA,Female,42,4,3,Manager,4,0,1,1,29,17,11,11,Single,20599
+5114217,33,Yes,Analytics,19,Statistics,Female,74,5,1,Executive,5,0,2,1,28,11,7,8,Single,19919
+5114218,36,Rarely,Analytics,12,Statistics,F,68,4,2,Senior Manager,3,1,2,1,26,18,6,16,Divorsed,26685
+5114219,30,Rarely,Analytics,10,Statistics,Male,54,3,2,Manager,2,1,2,1,17,7,2,1,Married,22623
+5114220,,Rarely,Marketing,4,MBA,Male,,3,4,Executive,4,0,3,1,16,7,0,3,M,17277
+5114221,42,Yes,Sales,7,Marketing Diploma,Male,58,3,5,Manager,4,0,2,0,24,9,8,8,Single,25355
+5114222,33,Rarely,Analytics,9,Statistics,Male,60,1,3,Executive,5,0,6,0,24,14,7,6,M,18143
+5114223,28,No,Sales,5,CA,Male,43,3,1,Manager,3,0,1,0,20,5,0,4,Divorsed,19221
+5114224,23,Rarely,Analytics,5,Engineer,Male,82,3,1,Executive,2,1,1,0,20,4,3,2,Divorsed,18523
+5114225,32,Yes,Analytics,3,Statistics,Male,79,3,2,Executive,1,1,0,0,18,8,3,6,Single,18068
+5114226,39,Rarely,Analytics,10,CA,Male,57,3,3,Manager,5,1,1,0,30,10,7,9,Married,20151
+5114227,26,Rarely,Sales,13,Statistics,Male,59,3,5,Manager,2,0,1,0,20,6,2,2,Single,20950
+5114228,40,Rarely,Sales,11,Engineer,F,54,4,3,Manager,4,0,7,0,17,7,1,3,Married,21852
+5114229,49,Rarely,Analytics,8,Statistics,Male,35,3,5,Senior Manager,4,1,3,0,19,29,0,7,Married,25466
+5114230,38,Yes,Marketing,11,MBA,Male,71,3,1,Manager,3,1,3,0,16,,1,2,Married,21077
+5114231,46,Rarely,Analytics,3,Statistics,Male,52,3,4,Senior Manager,1,0,3,0,,12,4,7,Married,23578
+5114232,,Rarely,Analytics,10,Statistics,Male,,3,3,Executive,5,0,2,0,26,7,1,4,Divorsed,17238
+5114233,36,Rarely,Sales,18,Marketing Diploma,Male,33,4,3,Manager,4,0,2,0,21,12,1,3,Married,20507
+5114234,30,Yes,Analytics,13,Statistics,Female,63,3,5,Executive,4,1,1,0,20,9,2,2,Married,19291
+5114235,43,Rarely,Analytics,9,CA,Male,55,3,5,Senior Manager,5,1,10,0,19,19,6,8,Married,29348
+5114236,39,Rarely,Analytics,11,CA,Male,59,3,3,AVP,5,1,1,1,19,21,11,10,Divorsed,32068
+5114237,,Rarely,Sales,8,Statistics,Male,,4,4,Executive,3,1,3,0,20,13,5,2,Divorsed,17329
+5114238,43,Rarely,Sales,10,Marketing Diploma,Female,55,5,2,Manager,3,1,8,0,18,7,1,3,Single,20346
+5114239,54,Rarely,Analytics,20,CA,Female,65,3,2,Manager,5,0,9,1,16,9,1,4,Married,20485
+5114240,19,Rarely,,3,Statistics,Male,47,4,1,Executive,2,1,1,0,27,1,1,0,Single,16102
+5114241,49,Rarely,Analytics,7,Statistics,Male,56,3,1,Senior Manager,1,1,2,0,17,12,1,9,Single,23898
+5114242,28,Yes,Sales,2,Engineer,Male,62,3,4,Executive,3,1,3,0,20,5,1,2,M,17909
+5114243,42,Rarely,Analytics,15,Engineer,F,51,3,1,VP,3,0,2,0,18,24,16,9,Married,35545
+5114244,26,Rarely,Sales,6,Other,Female,30,4,4,Executive,3,1,0,0,23,5,0,0,Single,17966
+5114245,27,Rarely,Analytics,6,Statistics,Female,,3,4,Executive,4,1,1,1,17,4,1,2,Single,17478
+5114246,30,Rarely,Analytics,12,Statistics,Male,63,1,2,Executive,3,0,7,0,24,6,1,1,M,18451
+5114247,36,Yes,Analytics,5,Statistics,Female,67,3,1,Manager,4,0,7,0,18,18,0,2,Married,20131
+5114248,42,Yes,Sales,4,Marketing Diploma,Female,68,3,1,Manager,5,1,1,0,23,11,2,8,Married,20103
+5114249,43,Rarely,Analytics,7,CA,Female,73,4,4,Manager,3,0,1,1,19,20,1,,Single,19081
+5114250,37,Rarely,Analytics,20,Statistics,Male,73,3,4,Executive,4,0,4,0,26,8,0,0,Divorsed,18022
+5114251,32,Rarely,Sales,9,Statistics,Male,78,5,4,Manager,3,0,5,1,24,13,8,8,Divorsed,22172
+5114252,37,Rarely,Sales,4,Statistics,F,75,3,4,Manager,3,0,7,0,,16,1,1,Single,22815
+5114253,55,Rarely,Analytics,3,CA,Male,60,4,1,VP,5,0,8,0,17,34,0,0,Married,34038
+5114254,28,No,Marketing,,Statistics,Male,43,3,1,Executive,1,1,1,0,20,3,2,2,M,17706
+5114255,61,Rarely,Sales,19,Marketing Diploma,Male,56,3,3,Manager,5,1,9,0,20,11,3,3,Single,21405
+5114256,28,Rarely,Analytics,,CA,Male,42,3,2,Executive,2,1,1,0,16,5,0,2,Divorsed,17713
+5114257,35,No,Sales,22,Marketing Diploma,Male,69,1,3,Manager,1,0,9,1,19,,1,5,Single,21304
+5114258,28,No,Analytics,11,Statistics,Male,59,5,2,Executive,3,1,2,0,25,4,2,3,Married,20621
+5114259,54,Rarely,Sales,3,CA,F,36,3,4,Manager,5,1,8,0,26,19,9,11,Single,24381
+5114260,42,Rarely,Analytics,3,Statistics,Female,51,3,5,Manager,2,1,1,0,18,10,2,,Divorsed,19089
+5114261,30,Yes,Sales,3,CA,F,44,3,4,Senior Manager,1,0,2,0,20,12,5,2,Married,23918
+5114262,33,Rarely,Analytics,28,Statistics,Male,59,3,1,Executive,2,1,2,1,30,2,1,,Single,18795
+5114263,49,Rarely,Analytics,13,Statistics,Male,63,4,2,VP,4,0,5,0,18,30,13,10,Married,35665
+5114264,34,Rarely,Analytics,5,Statistics,Male,62,3,5,Executive,2,1,1,0,20,5,1,3,Single,18500
+5114265,34,Rarely,Analytics,12,CA,Male,62,3,3,Executive,1,1,1,0,19,16,5,,M,18781
+5114266,28,Yes,Analytics,5,CA,Male,59,3,4,Executive,1,0,3,0,19,7,2,3,Single,18580
+5114267,29,Rarely,Analytics,1,Statistics,Female,67,3,3,Executive,2,0,1,0,20,3,1,,M,18760
+5114268,31,Rarely,Sales,6,Statistics,Female,67,3,4,Manager,1,1,1,0,16,10,0,2,Married,20476
+5114269,44,Rarely,Analytics,11,Statistics,Female,57,3,2,Manager,4,1,5,0,27,5,,1,Married,20765
+5114270,46,Rarely,Sales,4,Marketing Diploma,Male,52,3,5,AVP,3,1,3,0,17,23,4,9,Divorsed,32465
+5114271,34,Rarely,Analytics,3,Other,Male,82,4,5,Executive,5,1,4,1,17,7,1,,Single,18799
+5114272,33,No,Sales,29,Marketing Diploma,Male,82,3,4,Manager,2,1,1,0,24,5,3,3,Divorsed,20465
+5114273,36,Yes,Analytics,5,CA,Female,39,3,2,Manager,4,0,6,0,17,11,2,3,Single,20425
+5114274,44,Yes,Analytics,3,CA,Male,56,3,5,Senior Manager,3,1,5,1,23,16,2,2,Single,25209
+5114275,,Rarely,Marketing,7,MBA,Male,63,3,2,Executive,5,1,4,1,27,7,0,2,M,17073
+5114276,32,Yes,Analytics,6,Statistics,Female,,1,4,Executive,3,1,3,1,19,8,0,3,Single,17432
+5114277,26,Rarely,Sales,31,Statistics,Male,43,4,3,Manager,3,1,3,0,24,7,3,3,Divorsed,24639
+5114278,31,Yes,Sales,3,Other,Male,54,3,3,Manager,5,1,7,0,18,10,0,3,Single,20332
+5114279,35,Rarely,Analytics,29,Statistics,Male,46,1,3,Manager,3,0,1,0,22,10,6,8,M,18407
+5114280,40,Rarely,Analytics,16,CA,F,66,4,3,AVP,4,1,7,1,19,22,16,3,Married,33123
+5114281,46,Rarely,Analytics,13,Statistics,Male,71,3,2,Executive,2,0,4,0,27,9,1,3,Divorsed,18654
+5114282,47,Rarely,Marketing,4,Statistics,Female,46,3,4,Executive,5,0,7,0,18,11,6,8,Single,19423
+5114283,,Rarely,Analytics,28,CA,Female,,3,3,Executive,4,1,2,0,20,9,1,2,Single,17311
+5114284,35,Yes,Analytics,13,CA,Male,45,3,3,Executive,3,0,2,1,23,6,3,1,Married,19815
+5114285,28,Yes,Analytics,,Statistics,Male,39,4,4,Executive,3,1,1,1,19,3,0,2,M,17703
+5114286,32,Rarely,Analytics,5,Statistics,Female,68,4,4,Manager,3,1,1,0,17,,6,8,Divorsed,21162
+5114287,36,Rarely,Sales,1,Statistics,Male,56,3,5,Manager,1,0,1,1,19,,4,11,Married,21201
+5114288,31,Rarely,Analytics,13,CA,Female,65,3,3,Executive,2,0,8,1,28,7,0,,Divorsed,18929
+5114289,38,Yes,,3,Statistics,Male,42,3,4,Executive,1,0,1,1,28,1,0,0,Married,16702
+5114290,42,Rarely,Analytics,5,Engineer,Male,58,3,2,VP,2,0,1,0,16,22,11,15,Divorsed,34232
+5114291,42,Rarely,Analytics,,Statistics,Female,65,3,3,Executive,5,0,3,0,21,8,1,2,M,17576
+5114292,51,Rarely,Analytics,5,Statistics,Male,,3,5,Executive,3,1,9,1,17,18,2,7,M,17461
+5114293,34,Yes,Analytics,9,Statistics,Male,32,3,2,Manager,1,0,4,0,29,16,5,8,Married,23725
+5114294,57,Rarely,Marketing,11,Statistics,Male,61,3,1,VP,4,1,7,0,20,37,8,8,Single,35717
+5114295,31,Yes,Analytics,8,CA,Female,62,3,4,Executive,4,0,1,0,23,5,2,3,Single,18422
+5114296,33,Yes,Analytics,7,Statistics,Male,30,3,2,Manager,1,0,3,0,,15,4,7,Married,
+5114297,49,Rarely,Analytics,1,Engineer,Female,36,3,1,Executive,5,1,2,0,21,7,0,2,Divorsed,18580
+5114298,29,Rarely,Sales,21,Marketing Diploma,Male,45,3,2,Manager,2,1,2,0,19,10,0,2,Married,21931
+5114299,49,Rarely,Sales,9,Engineer,Male,56,4,3,AVP,4,1,6,0,22,22,2,3,Divorsed,28120
+5114300,20,Rarely,Analytics,5,Engineer,Male,54,3,1,Executive,5,0,1,0,24,1,0,0,Single,17973
+5114301,43,Yes,Sales,15,Statistics,Male,46,3,3,AVP,5,1,1,1,18,23,14,15,Single,29758
+5114302,25,Yes,Analytics,12,CA,Male,61,3,5,Executive,5,1,3,1,17,5,1,1,Single,19172
+5114303,60,Rarely,Sales,17,Marketing Diploma,Male,54,3,3,Manager,5,0,8,0,19,10,2,2,Single,20405
+5114304,31,Yes,Marketing,11,MBA,Female,68,4,1,Executive,1,0,7,0,17,7,2,3,M,18180
+5114305,58,Rarely,Analytics,3,Statistics,Male,31,3,1,VP,4,1,7,1,17,40,13,8,Single,34246
+5114306,54,Rarely,Analytics,18,Engineer,F,56,3,1,Senior Manager,3,1,8,0,16,22,0,8,Divorsed,25739
+5114307,,Yes,Sales,1,Statistics,Female,,3,3,Executive,4,0,1,1,16,3,2,2,Single,17302
+5114308,,Rarely,Analytics,21,Statistics,Male,,3,3,Manager,3,1,0,0,19,5,1,2,Single,17272
+5114309,29,Rarely,Analytics,11,Statistics,Female,,4,2,Executive,5,0,6,1,25,3,0,0,Single,17404
+5114310,33,Rarely,Analytics,,Other,Male,80,4,5,Executive,5,0,3,1,16,6,0,2,Single,17799
+5114311,40,Rarely,Analytics,13,CA,Male,67,3,1,Senior Manager,3,1,8,0,27,10,3,3,Single,29464
+5114312,52,Rarely,Sales,3,Marketing Diploma,F,57,5,5,VP,1,0,1,0,20,33,6,9,Married,34845
+5114313,33,Rarely,Sales,11,Marketing Diploma,Male,52,1,4,Senior Manager,3,1,0,1,,10,0,8,Married,23380
+5114314,38,Rarely,Analytics,1,Statistics,F,51,3,2,Senior Manager,3,1,4,1,,10,0,0,Single,22861
+5114315,32,Yes,Sales,3,Statistics,Female,,5,2,Executive,3,1,2,0,18,2,1,1,Single,17359
+5114316,45,Rarely,Analytics,13,Statistics,Male,68,3,2,Executive,3,0,2,1,17,7,1,,Single,18936
+5114317,42,Yes,Analytics,13,Statistics,Male,63,4,5,AVP,5,1,5,0,19,22,8,8,Married,33181
+5114318,22,Yes,Analytics,4,Statistics,Male,48,4,3,Executive,1,1,0,1,16,1,0,0,M,17853
+5114319,44,Rarely,Analytics,5,CA,Male,50,3,1,Manager,4,0,9,0,17,10,2,3,Single,20933
+5114320,37,No,Analytics,3,Statistics,Male,80,4,3,Manager,1,0,5,0,19,17,0,0,Married,20163
+5114321,38,Rarely,Analytics,24,Statistics,Male,67,2,3,Executive,5,1,2,1,18,9,2,8,Divorsed,19564
+5114322,40,Rarely,Analytics,2,Statistics,Male,68,3,4,AVP,5,0,2,0,16,22,11,16,Married,31823
+5114323,47,Rarely,Sales,12,Marketing Diploma,Male,54,3,4,Senior Manager,1,1,5,0,17,29,5,4,Married,26096
+5114324,25,Rarely,Analytics,4,CA,Male,61,3,1,Executive,5,1,5,0,18,6,0,,Divorsed,19031
+5114325,41,Rarely,Sales,1,Marketing Diploma,Male,49,2,2,Senior Manager,5,0,1,0,,10,0,7,Divorsed,23392
+5114326,36,Rarely,Analytics,19,Statistics,Male,74,3,1,Senior Manager,3,1,5,1,18,11,1,1,Married,23632
+5114327,32,Rarely,Marketing,21,MBA,Male,61,1,4,Executive,5,1,1,0,23,3,1,,M,18956
+5114328,29,Rarely,Analytics,20,Engineer,Male,34,4,2,Executive,1,1,6,0,18,7,1,4,M,18367
+5114329,25,Rarely,Analytics,1,Statistics,Female,62,3,1,Manager,3,1,0,0,17,5,1,2,Married,19898
+5114330,38,Rarely,Sales,3,Marketing Diploma,Male,32,3,4,Senior Manager,4,1,7,0,21,10,0,0,Single,22351
+5114331,27,Rarely,Analytics,20,Other,Male,67,4,5,Executive,5,0,1,0,16,7,0,,Married,19066
+5114332,42,Rarely,,12,Statistics,Male,66,3,5,Executive,5,1,2,0,26,6,1,5,M,18289
+5114333,,Yes,Analytics,10,CA,Male,,3,2,Executive,1,1,1,1,17,4,1,2,M,17326
+5114334,47,Rarely,Analytics,2,Engineer,Male,74,3,3,Executive,1,0,7,0,17,17,1,2,M,18420
+5114335,33,Yes,Analytics,27,Statistics,Male,82,3,3,Manager,1,0,2,0,21,,5,8,Married,21309
+5114336,37,Rarely,Analytics,19,Statistics,Female,45,1,1,Executive,5,0,2,0,22,19,16,,Single,18743
+5114337,32,No,Analytics,16,CA,Female,34,3,2,Manager,1,0,5,0,23,9,1,2,Married,21667
+5114338,37,Rarely,Analytics,7,CA,Male,51,2,3,Manager,5,0,4,1,18,13,6,7,Married,20974
+5114339,40,Rarely,Analytics,9,Statistics,Female,62,3,3,Manager,5,0,2,1,21,18,0,0,Married,
+5114340,48,Yes,Sales,30,Statistics,F,79,1,2,Manager,3,0,5,1,18,9,2,4,Single,22397
+5114341,36,Rarely,Sales,10,Statistics,Female,57,3,2,Manager,1,0,2,1,17,,1,10,Married,21204
+5114342,30,Yes,Analytics,27,Statistics,Male,75,4,1,Executive,1,0,2,1,30,2,2,1,Single,18439
+5114343,43,Yes,Analytics,29,CA,F,62,3,3,Senior Manager,5,0,4,1,23,21,1,1,Married,29191
+5114344,53,Rarely,Analytics,6,CA,Male,41,4,2,Senior Manager,3,1,3,1,20,29,1,5,Divorsed,23969
+5114345,34,Rarely,Sales,4,Other,Male,51,5,2,Manager,5,1,3,0,23,15,3,12,Single,19759
+5114346,42,No,Analytics,3,Statistics,Male,37,3,5,AVP,3,1,0,1,18,21,2,10,Divorsed,
+5114347,37,Rarely,Sales,6,Statistics,Male,53,4,2,Senior Manager,2,0,2,1,17,17,4,8,Divorsed,26325
+5114348,35,Rarely,Analytics,23,Statistics,Male,46,5,2,Executive,3,1,0,0,20,6,4,3,Single,19230
+5114349,49,Rarely,Sales,9,Engineer,Male,56,4,1,AVP,4,0,6,0,22,22,2,3,Married,28120
+5114350,43,Yes,Analytics,31,Engineer,Female,60,4,2,Manager,1,1,1,0,17,8,1,5,Married,20523
+5114351,,Rarely,Analytics,1,Statistics,Female,67,5,5,Executive,4,1,7,1,18,10,3,7,Single,17216
+5114352,40,Rarely,Analytics,,CA,Male,10,3,4,Manager,1,0,8,1,20,15,3,7,M,17741
+5114353,30,Yes,Sales,27,Marketing Diploma,Female,52,4,3,Manager,5,0,5,0,20,9,0,1,Single,21696
+5114354,32,Rarely,Analytics,3,Engineer,Male,,3,1,Executive,5,1,1,0,19,4,1,2,Single,17439
+5114355,,Rarely,Sales,13,CA,Male,76,3,1,Executive,4,1,2,0,28,2,1,1,M,17052
+5114356,33,Rarely,Sales,17,Statistics,F,74,3,4,Senior Manager,5,0,2,1,,11,0,0,Single,23564
+5114357,48,Yes,Sales,7,CA,Male,61,3,3,Manager,3,1,4,0,25,6,1,,Single,18976
+5114358,40,Rarely,Analytics,3,CA,Female,59,1,1,Manager,3,1,5,0,25,,11,8,Married,21377
+5114359,50,Yes,Analytics,13,Statistics,F,37,3,2,VP,5,1,10,1,17,23,2,3,Single,34665
+5114360,22,Yes,Analytics,5,Engineer,Male,59,4,2,Executive,3,1,5,0,21,4,1,,Single,18894
+5114361,46,Rarely,Analytics,19,CA,Female,57,3,2,Manager,3,0,2,0,19,19,0,8,Married,19810
+5114362,33,Rarely,Analytics,9,Statistics,Male,60,1,1,Executive,5,1,6,0,24,14,7,6,M,18143
+5114363,47,Yes,Sales,28,Statistics,Female,77,1,3,Manager,3,0,4,1,17,,1,3,Single,21397
+5114364,26,Rarely,Sales,22,Marketing Diploma,Male,38,4,5,Executive,4,0,2,1,24,2,1,1,Divorsed,18413
+5114365,37,Rarely,Sales,5,Statistics,Female,53,3,2,Manager,1,1,4,0,21,18,7,8,Single,20502
+5114366,43,Yes,Analytics,28,Statistics,F,53,3,4,Senior Manager,5,0,8,0,16,18,0,1,Divorsed,25820
+5114367,42,Rarely,Marketing,3,MBA,Male,61,4,1,VP,3,0,2,0,18,23,3,11,Divorsed,35189
+5114368,42,Rarely,Sales,11,Marketing Diploma,Female,56,3,1,Manager,4,0,6,0,27,15,2,5,Married,20393
+5114369,46,Yes,Sales,6,Marketing Diploma,Male,68,3,3,Manager,2,0,4,1,26,14,,8,Single,20772
+5114370,42,Rarely,Analytics,3,CA,Male,68,4,5,Executive,4,0,4,0,19,4,0,0,Married,19841
+5114371,48,Rarely,Sales,17,Statistics,Female,66,3,1,Manager,3,0,8,0,19,18,7,7,Married,21439
+5114372,42,Rarely,Analytics,14,CA,Male,65,1,4,Manager,5,0,5,0,23,10,0,0,Married,20538
+5114373,38,Rarely,Analytics,3,Statistics,Male,45,3,1,Executive,2,1,5,1,16,6,1,,Single,18944
+5114374,51,Rarely,Analytics,3,CA,Male,58,4,5,Executive,3,1,3,0,21,6,1,3,Divorsed,19690
+5114375,37,Rarely,Sales,4,Statistics,Male,57,3,3,Senior Manager,2,1,2,0,17,12,1,3,Single,22428
+5114376,39,Rarely,Analytics,5,CA,Male,53,3,4,Manager,4,0,5,0,17,8,,5,Married,20855
+5114377,31,Rarely,Analytics,10,Statistics,Male,33,3,2,Senior Manager,4,1,1,0,30,13,0,8,Married,
+5114378,48,No,Sales,5,Marketing Diploma,Male,59,3,2,Manager,4,0,8,0,17,5,1,1,Married,20978
+5114379,37,Rarely,Analytics,5,Statistics,Male,54,3,3,Executive,3,1,7,1,20,8,1,3,M,17996
+5114380,40,Yes,Analytics,3,CA,Female,38,1,2,Manager,4,0,1,0,29,8,3,7,Married,19244
+5114381,26,Rarely,Sales,30,CA,Male,45,3,5,Manager,3,0,5,0,17,8,0,0,Married,19306
+5114382,22,Rarely,Analytics,13,Statistics,Female,,4,5,Executive,5,1,2,0,19,2,2,1,Single,17416
+5114383,23,Yes,Analytics,6,Statistics,Male,50,4,4,Executive,1,1,1,1,17,2,1,,M,18853
+5114384,37,Rarely,Analytics,9,Statistics,Male,62,5,4,Executive,3,1,2,0,20,8,2,,M,18741
+5114385,27,Rarely,Sales,3,Statistics,Male,59,3,5,Manager,3,1,2,0,23,,8,8,Divorsed,21296
+5114386,36,Rarely,Analytics,30,Statistics,Male,51,3,1,Manager,3,0,3,0,,18,1,8,Married,22883
+5114387,37,Rarely,Analytics,9,CA,Male,56,3,4,Manager,4,1,7,0,26,8,1,2,Married,20941
+5114388,37,Rarely,Sales,17,Marketing Diploma,Male,66,4,5,Manager,3,1,4,0,24,,0,0,Married,21334
+5114389,50,Yes,Sales,1,Other,Male,51,3,3,Manager,3,1,3,1,19,5,0,0,Single,19728
+5114390,35,Rarely,Analytics,26,Other,Male,54,4,3,Manager,2,0,4,0,19,9,0,2,Single,18681
+5114391,,Rarely,Analytics,25,Engineer,Male,,5,5,Executive,2,0,1,1,23,1,0,0,Single,17340
+5114392,26,Yes,Analytics,5,Statistics,Male,79,1,1,Manager,3,1,2,0,23,,1,8,Married,21206
+5114393,36,No,Sales,1,CA,Female,45,3,2,Manager,2,1,4,0,20,7,0,0,Single,21653
+5114394,53,Rarely,Analytics,3,Statistics,Male,67,4,5,VP,3,1,1,0,20,35,12,10,Married,35999
+5114395,56,No,Analytics,2,Statistics,Male,57,3,5,Manager,3,1,1,0,26,,1,9,Married,21306
+5114396,35,Yes,Analytics,5,Statistics,Male,57,3,1,Manager,3,0,1,1,16,9,1,1,Single,19249
+5114397,31,Rarely,Analytics,25,CA,Female,66,4,4,Manager,5,0,1,0,24,10,1,8,Single,21812
+5114398,21,Rarely,Sales,5,CA,Female,51,4,2,Executive,3,0,2,0,19,3,1,3,Single,18044
+5114399,30,Rarely,Analytics,,Engineer,Female,58,3,3,Executive,5,0,5,1,16,8,0,4,Single,17657
+5114400,,Yes,Analytics,9,CA,Female,58,4,1,Manager,4,1,1,1,21,20,0,7,M,17133
+5114401,,Rarely,Analytics,26,CA,Male,,4,1,Executive,4,0,4,1,25,5,2,2,Single,17313
+5114402,34,No,Sales,5,Marketing Diploma,Female,72,3,4,Manager,3,1,9,0,20,6,1,2,Divorsed,21538
+5114403,42,Rarely,Sales,1,Statistics,Male,59,3,3,Manager,3,1,1,0,30,20,11,6,Divorsed,19907
+5114404,,Rarely,Analytics,26,CA,Male,,4,3,Executive,4,0,4,1,25,5,2,2,Single,17313
+5114405,25,Rarely,Sales,6,Other,Female,35,3,5,Manager,3,1,1,0,27,5,1,3,Married,20999
+5114406,34,Yes,Analytics,10,Statistics,Male,63,3,2,Manager,5,0,4,0,22,11,0,7,Married,20346
+5114407,32,Rarely,Sales,11,Marketing Diploma,Male,55,3,3,Manager,1,0,1,0,17,10,0,8,Single,20396
+5114408,35,Yes,Marketing,26,MBA,F,45,3,3,Senior Manager,5,0,10,1,21,12,1,3,Married,25950
+5114409,31,No,Sales,21,Marketing Diploma,F,45,3,1,Manager,3,0,1,0,18,9,0,0,Married,21932
+5114410,38,No,Sales,3,Statistics,Male,39,4,4,Manager,2,1,3,0,23,13,7,5,Divorsed,
+5114411,28,Rarely,Analytics,8,Engineer,Male,44,4,4,Senior Manager,1,1,2,1,22,10,1,9,Married,28808
+5114412,55,Rarely,Sales,3,CA,Male,37,3,5,Manager,2,0,4,0,21,12,7,3,Single,20160
+5114413,56,Rarely,Analytics,5,Engineer,Male,70,4,1,Executive,1,1,9,0,26,20,1,5,M,18662
+5114414,36,Yes,Analytics,28,Statistics,Female,68,3,4,Executive,4,1,2,1,25,11,8,9,M,18022
+5114415,56,Yes,Sales,7,Statistics,F,56,2,1,AVP,5,0,9,0,16,36,7,7,Divorsed,28212
+5114416,42,Rarely,Analytics,24,Statistics,F,44,3,2,AVP,2,1,2,0,19,16,0,0,Single,30992
+5114417,34,Rarely,Analytics,11,Statistics,Male,62,1,3,Executive,5,0,7,0,25,15,8,7,Married,19143
+5114418,43,Rarely,Analytics,9,Other,Female,74,3,5,Manager,3,1,4,1,19,8,0,2,Married,19522
+5114419,24,Rarely,Analytics,2,Statistics,Male,45,4,3,Manager,3,1,1,0,17,4,1,2,Single,19617
+5114420,58,Rarely,Analytics,8,CA,F,53,4,2,Senior Manager,5,0,7,1,19,31,5,9,Married,25008
+5114421,38,Rarely,Sales,4,Statistics,Male,42,3,2,Manager,2,0,8,1,17,19,0,0,Single,21861
+5114422,,No,Analytics,18,Statistics,Male,,5,5,Executive,3,1,2,0,18,6,0,0,Single,17290
+5114423,32,Yes,Analytics,3,Statistics,F,82,1,2,Senior Manager,4,0,2,0,,11,5,8,Single,23446
+5114424,27,Rarely,Analytics,,Statistics,Male,55,4,1,Executive,3,1,1,0,18,4,2,2,Divorsed,17539
+5114425,39,No,Analytics,10,Statistics,Male,57,3,4,VP,1,0,2,0,18,21,1,3,Single,34431
+5114426,42,Rarely,Sales,7,Marketing Diploma,F,53,3,2,Senior Manager,3,0,1,1,19,24,14,6,Married,26447
+5114427,54,Rarely,Analytics,9,Statistics,Female,42,3,3,Manager,3,0,7,0,16,19,0,,Single,18780
+5114428,39,Yes,Analytics,6,Other,Male,46,3,3,Executive,3,1,4,0,22,9,3,,Divorsed,18821
+5114429,35,Rarely,Analytics,9,CA,Male,55,3,5,Executive,5,0,3,0,17,9,2,,Single,18960
+5114430,46,Rarely,Sales,12,Marketing Diploma,Male,76,3,3,Senior Manager,5,0,5,1,18,19,1,3,Married,26761
+5114431,,Rarely,Analytics,1,CA,Male,,3,5,Executive,2,0,2,1,21,6,2,0,Divorsed,17293
+5114432,24,Rarely,,23,Statistics,Male,69,3,1,Manager,3,1,1,0,20,6,2,3,Single,18272
+5114433,,Rarely,Analytics,11,Statistics,Female,,4,5,Executive,4,1,2,0,18,2,1,1,Single,17261
+5114434,35,Rarely,Analytics,11,Statistics,Female,34,3,4,Manager,5,0,4,0,20,,1,1,Married,21121
+5114435,25,Yes,Analytics,10,Statistics,Female,57,3,3,Executive,3,0,2,1,22,7,2,,Divorsed,18886
+5114436,31,Yes,Analytics,30,CA,Male,71,4,5,Executive,4,1,0,0,16,6,1,4,Single,18479
+5114437,,Rarely,Marketing,14,MBA,Male,36,3,4,Executive,4,0,4,0,18,8,0,4,Divorsed,17143
+5114438,27,Rarely,,28,Statistics,Male,50,5,2,Executive,3,1,2,0,18,2,1,2,Single,18293
+5114439,25,Rarely,Sales,5,Marketing Diploma,Male,57,4,2,Manager,5,0,1,0,17,5,0,3,Married,19256
+5114440,30,Yes,Analytics,1,CA,Female,58,3,1,Manager,2,1,1,0,28,12,3,,Single,19011
+5114441,48,Yes,Analytics,19,CA,Male,66,1,3,Manager,3,0,2,1,25,,3,8,Married,21067
+5114442,27,Rarely,Analytics,3,CA,Male,40,3,5,Executive,4,1,9,0,17,6,2,2,Divorsed,18468
+5114443,37,Rarely,Sales,4,Statistics,Male,57,3,2,Senior Manager,2,1,2,0,17,12,1,3,Single,22428
+5114444,26,Rarely,Analytics,4,CA,Male,52,1,5,Executive,1,0,1,0,27,8,0,7,Married,19420
+5114445,31,Rarely,Sales,7,Statistics,Male,76,5,1,Manager,3,1,4,1,23,,7,7,Divorsed,21172
+5114446,39,Rarely,Analytics,5,CA,F,56,4,4,Senior Manager,3,0,4,1,25,11,1,3,Married,23756
+5114447,27,Rarely,Analytics,,Statistics,Male,55,4,5,Executive,3,0,1,0,18,4,2,2,Divorsed,17539
+5114448,19,No,Analytics,11,CA,Male,82,3,4,Executive,3,0,2,0,18,1,1,1,Single,17904
+5114449,21,Rarely,Analytics,7,Engineer,Male,56,3,3,Executive,5,1,2,0,25,2,1,,Single,18973
+5114450,51,Yes,Sales,11,Engineer,Male,52,3,5,Manager,3,1,4,1,,19,2,4,Married,22796
+5114451,57,Rarely,Analytics,10,Engineer,,74,3,1,Executive,3,0,9,0,17,15,10,9,M,18339
+5114452,39,Yes,Analytics,9,Statistics,Female,48,3,5,Executive,3,1,1,0,16,8,0,,M,18755
+5114453,50,Rarely,Analytics,29,CA,Male,74,2,2,Executive,3,1,1,1,16,20,3,8,Divorsed,18221
+5114454,31,No,Analytics,6,CA,Male,74,3,5,Manager,5,0,0,0,24,10,1,7,Single,24936
+5114455,39,Yes,Analytics,3,Statistics,Male,54,3,2,AVP,1,0,7,0,16,21,11,5,Married,27169
+5114456,42,Rarely,Analytics,17,Statistics,Male,58,3,5,Executive,3,1,5,0,18,14,2,9,M,18451
+5114457,,Rarely,Analytics,3,Other,Male,62,4,3,Executive,3,0,6,1,20,7,0,0,Single,17090
+5114458,28,Rarely,Analytics,,Statistics,Female,79,3,5,Executive,2,1,1,1,16,1,0,0,Divorsed,17515
+5114459,41,Rarely,Sales,4,Statistics,Male,57,4,1,Manager,4,1,2,0,16,14,0,4,Married,23938
+5114460,26,Rarely,Analytics,4,CA,Male,52,1,1,Executive,2,1,1,0,27,8,0,7,Divorsed,19420
+5114461,35,Yes,Analytics,19,Statistics,Female,82,4,2,Executive,2,1,2,0,22,7,2,4,Single,18553
+5114462,36,Rarely,Sales,11,Statistics,Female,74,3,5,Executive,2,1,2,0,22,4,1,3,Divorsed,18572
+5114463,39,Rarely,Analytics,13,CA,F,61,5,2,Senior Manager,3,1,4,0,18,21,2,12,Married,29206
+5114464,19,No,Analytics,,Statistics,Female,69,3,1,Executive,2,0,2,0,21,1,1,1,Single,17611
+5114465,36,No,Analytics,5,CA,Male,62,3,2,Manager,1,0,3,0,20,16,2,8,Married,21762
+5114466,34,Yes,Analytics,23,Other,Male,56,4,1,Manager,1,1,1,1,20,16,,11,Married,20747
+5114467,20,Rarely,Analytics,1,Statistics,Female,53,4,5,Executive,4,1,1,0,18,1,0,0,Single,17836
+5114468,40,Rarely,Analytics,16,CA,F,66,4,1,AVP,4,0,7,1,19,22,16,3,Married,33123
+5114469,32,Rarely,Sales,11,Statistics,Male,33,3,4,Senior Manager,1,0,2,0,24,14,10,10,Married,26793
+5114470,35,Rarely,Marketing,12,Engineer,Female,54,3,2,Executive,3,0,2,0,21,3,3,,Divorsed,18742
+5114471,30,Yes,Analytics,3,Statistics,Male,72,1,5,Manager,3,0,9,1,18,11,1,3,Single,22294
+5114472,31,Rarely,Sales,17,Marketing Diploma,Male,70,3,1,Senior Manager,3,0,2,0,,10,0,0,Married,23161
+5114473,29,Rarely,Analytics,,Engineer,Female,71,4,2,Executive,4,1,5,0,21,6,1,1,Divorsed,17546
+5114474,29,Yes,Analytics,3,Statistics,Female,67,3,3,Executive,4,0,0,0,18,4,0,2,Divorsed,18180
+5114475,,Rarely,Analytics,12,Statistics,Male,61,3,4,Executive,5,1,0,0,19,6,1,4,Divorsed,17099
+5114476,30,Rarely,Analytics,3,Engineer,Male,82,4,1,Executive,5,0,7,0,19,12,1,8,Single,18362
+5114477,42,Yes,Analytics,29,Engineer,Female,58,4,3,Manager,2,1,0,0,16,7,0,4,Divorsed,19523
+5114478,38,Rarely,Analytics,10,CA,Male,80,3,3,Manager,5,1,6,1,28,17,1,5,Married,20284
+5114479,42,Rarely,Analytics,31,Statistics,F,62,4,2,AVP,4,0,1,0,29,22,1,11,Married,29570
+5114480,32,Rarely,Analytics,4,CA,Female,63,3,5,Manager,5,1,1,0,17,8,6,3,Married,21725
+5114481,29,Rarely,Sales,4,CA,Female,62,3,2,Manager,3,1,1,0,19,6,1,2,Divorsed,20561
+5114482,,Rarely,Analytics,5,Statistics,Male,49,4,3,Executive,1,0,2,0,28,2,2,1,Single,17102
+5114483,26,Rarely,Marketing,5,MBA,Female,54,3,4,Executive,4,1,5,0,20,7,2,3,M,18187
+5114484,59,Rarely,Sales,24,Statistics,F,74,3,4,AVP,1,0,5,1,19,30,1,1,Married,33875
+5114485,34,Rarely,Analytics,6,CA,F,45,4,2,Senior Manager,5,0,2,0,17,14,5,8,Single,26631
+5114486,33,Rarely,Analytics,5,Statistics,Male,,3,2,Executive,4,0,2,0,18,2,1,1,Single,17393
+5114487,34,Rarely,Analytics,11,Statistics,Male,71,3,3,Manager,3,1,3,1,23,15,1,1,Single,22388
+5114488,37,Rarely,Analytics,19,Statistics,Female,45,1,3,Executive,5,1,2,0,22,19,16,,Single,18743
+5114489,39,Yes,Analytics,3,Statistics,Male,54,3,5,AVP,2,0,7,0,16,21,11,5,Married,27169
+5114490,34,Yes,Marketing,12,Statistics,Male,56,4,2,Manager,4,0,4,0,16,14,1,8,Married,19490
+5114491,43,Rarely,Analytics,,CA,Female,72,2,3,Executive,3,1,1,0,17,6,1,4,M,17645
+5114492,36,Rarely,Analytics,4,Engineer,Male,30,3,1,Manager,4,1,4,0,17,10,7,7,Single,19485
+5114493,45,No,Analytics,3,CA,Male,65,4,5,AVP,1,0,9,0,28,22,11,8,Married,31792
+5114494,36,Rarely,Sales,30,Statistics,Male,56,3,3,Manager,1,1,2,1,24,11,8,8,Single,21813
+5114495,34,Yes,Analytics,9,Statistics,Male,32,3,5,Manager,2,1,4,0,29,16,5,8,Married,23725
+5114496,28,Rarely,Analytics,20,Engineer,Male,53,3,1,Executive,4,1,1,1,22,7,2,,Divorsed,19058
+5114497,42,Yes,Sales,27,Marketing Diploma,F,77,3,4,AVP,4,0,5,0,19,23,4,8,Divorsed,28525
+5114498,49,Rarely,Analytics,7,Statistics,Male,80,4,5,Senior Manager,3,0,8,0,20,28,5,9,Single,26999
+5114499,20,Rarely,Marketing,5,Engineer,Male,54,4,3,Executive,2,1,2,0,18,2,1,1,Single,18564
+5114500,32,Rarely,Sales,1,Statistics,Male,34,5,2,Manager,4,1,6,0,20,10,0,0,Single,21735
+5114501,27,Rarely,Sales,7,Marketing Diploma,Male,50,4,3,Manager,2,0,2,1,18,9,8,5,Single,21828
+5114502,34,Yes,Analytics,11,Statistics,Male,42,1,1,Manager,1,0,1,0,18,9,7,2,Married,19724
+5114503,41,Rarely,Analytics,23,Engineer,Male,63,3,3,Senior Manager,2,1,5,0,26,15,12,2,Divorsed,26322
+5114504,30,Rarely,Marketing,10,MBA,Male,48,3,5,Manager,2,1,0,1,24,,4,7,Divorsed,21347
+5114505,32,No,Analytics,12,CA,,48,4,1,Executive,5,0,1,1,28,5,2,3,Single,18321
+5114506,34,No,Sales,11,Statistics,Male,57,3,2,Manager,3,1,1,1,19,15,0,,M,19001
+5114507,38,Rarely,Sales,4,Statistics,Male,76,3,4,Senior Manager,3,0,0,0,17,17,5,13,Married,25609
+5114508,39,Rarely,Analytics,4,CA,Male,76,4,1,Manager,3,1,0,0,20,11,0,7,M,18069
+5114509,46,Rarely,Analytics,12,Statistics,,62,3,4,Manager,4,0,9,0,24,21,1,16,M,18348
+5114510,44,Yes,Analytics,3,CA,Male,56,3,3,Senior Manager,3,0,5,1,23,16,2,2,Single,25209
+5114511,28,Yes,Sales,5,Statistics,Male,45,5,3,Manager,1,0,4,0,26,,1,1,Single,21071
+5114512,37,Rarely,Analytics,19,Statistics,Female,45,1,4,Executive,5,1,2,0,22,19,16,,Single,18743
+5114513,39,Rarely,Analytics,21,CA,Male,62,5,2,Manager,1,0,4,1,22,16,2,1,Married,21811
+5114514,57,Rarely,Analytics,27,Statistics,Male,69,3,2,Executive,1,1,2,0,22,6,2,1,Single,18587
+5114515,19,Rarely,,3,Statistics,Male,47,4,2,Executive,2,0,1,0,27,1,1,0,Single,16102
+5114516,32,Rarely,Analytics,3,CA,Female,,3,5,Executive,4,0,1,0,18,8,0,7,Divorsed,17370
+5114517,43,Rarely,Sales,8,Marketing Diploma,Male,62,3,4,VP,3,1,7,0,19,22,1,1,Married,34303
+5114518,38,Rarely,Analytics,1,Engineer,F,80,3,2,Senior Manager,5,1,1,0,18,15,5,11,Divorsed,28582
+5114519,24,Rarely,Sales,5,CA,Female,42,3,5,Manager,3,0,1,1,17,5,0,3,Divorsed,19162
+5114520,22,Rarely,Analytics,4,Statistics,Female,34,3,3,Manager,3,1,0,1,24,4,0,2,Divorsed,19171
+5114521,37,Rarely,Analytics,8,CA,Male,30,3,1,Senior Manager,3,0,4,0,18,16,0,2,Single,28664
+5114522,51,Rarely,Analytics,12,Statistics,Male,66,3,3,,2,0,5,0,24,9,1,1,Divorsed,18380
+5114523,26,Rarely,Analytics,8,Other,Male,80,1,1,Executive,5,0,0,0,17,8,0,7,Single,
+5114524,50,Yes,Analytics,23,CA,Male,58,5,5,AVP,1,0,1,1,18,32,13,9,Single,29411
+5114525,39,Rarely,Sales,13,Statistics,Female,82,3,2,Manager,1,0,2,0,17,,2,10,Married,21343
+5114526,32,Yes,Analytics,6,Statistics,Female,35,3,2,Executive,3,0,2,0,18,8,8,8,Single,20084
+5114527,25,Rarely,Analytics,4,CA,Male,61,3,5,Executive,5,0,5,0,18,6,0,,Married,19031
+5114528,40,Rarely,Sales,5,Marketing Diploma,Male,67,4,3,Senior Manager,2,1,7,0,16,15,2,11,Divorsed,25855
+5114529,34,Rarely,Analytics,3,Statistics,F,44,4,3,Manager,2,1,1,0,,7,2,5,Single,22949
+5114530,28,Rarely,Analytics,6,CA,Male,56,4,1,Executive,2,1,1,0,19,6,2,2,Single,18045
+5114531,29,Rarely,Sales,24,Statistics,F,45,4,3,Senior Manager,5,1,1,0,18,11,3,10,Divorsed,22336
+5114532,30,Rarely,Analytics,29,CA,Female,64,3,1,Manager,2,0,1,0,18,11,,9,Divorsed,20775
+5114533,41,Rarely,Analytics,7,CA,F,48,3,4,VP,3,0,2,0,20,22,10,10,Divorsed,35033
+5114534,30,Rarely,Sales,5,CA,Female,63,4,3,Manager,4,1,1,1,17,11,2,7,Married,20209
+5114535,48,Rarely,Sales,30,CA,F,61,3,5,Senior Manager,3,1,3,0,26,15,0,0,Divorsed,27504
+5114536,32,No,Sales,12,Other,Male,60,2,4,Manager,3,0,8,0,17,6,1,2,Divorsed,19707
+5114537,,Yes,Sales,3,Marketing Diploma,Female,,3,5,Executive,3,0,6,0,23,6,1,2,Divorsed,17231
+5114538,40,Rarely,Sales,3,Marketing Diploma,Female,62,3,5,Manager,4,1,3,0,19,15,5,10,Married,20677
+5114539,35,Rarely,Analytics,26,Engineer,Male,78,4,5,Senior Manager,4,0,3,0,21,16,4,8,Divorsed,25903
+5114540,24,Rarely,Analytics,15,Other,Male,80,3,3,Executive,1,0,2,0,19,6,2,5,Single,18647
+5114541,43,Rarely,Analytics,32,CA,Male,58,5,3,Manager,2,0,5,0,25,17,1,1,Single,20272
+5114542,41,Yes,Analytics,10,CA,Male,64,3,4,VP,3,1,2,0,22,21,0,11,Married,34419
+5114543,60,Rarely,Marketing,9,CA,Male,54,3,5,Executive,3,0,9,0,23,8,3,3,Divorsed,18267
+5114544,,Rarely,Analytics,5,Statistics,Female,,3,4,Executive,3,1,1,0,24,1,0,0,Single,17318
+5114545,26,Rarely,Analytics,5,Statistics,Male,53,3,4,Executive,1,1,1,1,25,8,2,2,Single,17875
+5114546,57,Rarely,Analytics,10,Statistics,Male,51,5,1,Senior Manager,2,0,5,0,,38,1,3,Single,23260
+5114547,33,Rarely,Analytics,15,CA,Male,,3,3,Executive,2,0,5,1,18,8,0,4,Divorsed,17436
+5114548,32,Yes,Analytics,,Statistics,Male,80,2,1,Executive,4,0,1,0,25,5,0,3,Divorsed,17794
+5114549,37,Rarely,Analytics,13,Engineer,F,65,3,4,Senior Manager,3,0,4,0,,11,2,8,Divorsed,23094
+5114550,39,Rarely,Analytics,20,Statistics,F,67,4,4,Senior Manager,3,0,1,0,24,21,2,10,Married,24823
+5114551,21,Yes,Sales,12,Marketing Diploma,,56,3,4,Executive,2,0,2,1,20,3,1,3,Single,18323
+5114552,31,Rarely,,9,Statistics,Female,34,4,1,Executive,4,0,1,0,17,1,0,0,Single,16261
+5114553,47,Rarely,Analytics,5,Statistics,Male,54,3,5,Senior Manager,1,0,4,0,20,13,5,8,Married,24578
+5114554,34,Rarely,Analytics,7,Statistics,Female,45,4,4,Manager,4,0,6,0,20,12,0,0,Married,19505
+5114555,35,Rarely,Analytics,9,Other,Female,43,3,3,Manager,3,1,2,0,20,17,,11,Single,20809
+5114556,,Rarely,Analytics,22,Engineer,Male,,4,1,Executive,5,0,0,0,19,2,0,0,M,17296
+5114557,33,Rarely,Analytics,6,Statistics,Male,34,4,4,Senior Manager,2,1,4,0,20,9,1,2,Married,22119
+5114558,20,Rarely,Analytics,28,Statistics,Female,59,1,1,Executive,2,0,2,1,18,2,1,,Single,18994
+5114559,45,Rarely,Analytics,7,CA,Male,52,3,2,Manager,4,0,10,0,18,11,3,4,Single,21933
+5114560,27,Yes,Analytics,14,CA,Male,62,3,5,Manager,5,0,2,1,19,6,,4,Divorsed,20741
+5114561,36,Rarely,Analytics,3,Statistics,Female,53,3,3,Manager,4,0,9,1,16,18,5,12,Single,20410
+5114562,42,Rarely,Analytics,9,CA,Male,67,4,3,Manager,4,1,7,1,21,9,2,3,Single,22032
+5114563,,Rarely,Analytics,3,Other,Male,62,4,5,Executive,3,1,6,1,20,7,0,0,Single,17090
+5114564,38,Rarely,Sales,3,Statistics,F,31,3,4,Manager,5,0,3,0,20,11,1,7,Married,21893
+5114565,27,Yes,Analytics,8,CA,Female,60,4,1,Executive,3,1,2,1,20,9,2,8,Divorsed,18366
+5114566,41,Rarely,Analytics,29,Statistics,F,60,4,4,AVP,4,1,0,0,28,21,0,10,Married,28570
+5114567,41,Rarely,Analytics,8,CA,Female,42,3,2,Manager,3,0,6,0,19,8,2,1,Single,20003
+5114568,20,No,Analytics,13,CA,Female,68,4,5,Executive,4,0,2,1,31,2,1,1,Single,17859
+5114569,38,Rarely,Analytics,9,CA,Male,53,2,2,Manager,5,1,5,1,19,14,7,8,Married,21974
+5114570,47,Yes,Sales,8,Marketing Diploma,Male,70,3,1,Manager,2,1,5,1,27,15,1,9,Single,21772
+5114571,38,Rarely,Marketing,9,MBA,Male,65,3,5,Executive,5,1,5,1,28,8,1,3,M,18073
+5114572,46,Rarely,Analytics,23,CA,Male,67,5,2,Senior Manager,5,1,3,1,24,25,1,8,Married,26851
+5114573,,Yes,Analytics,19,CA,Female,73,3,3,Executive,2,1,1,0,18,8,1,7,Single,17153
+5114574,35,Yes,Analytics,13,Statistics,Male,44,1,4,Manager,1,0,2,0,19,10,8,3,Married,20724
+5114575,33,Rarely,Sales,10,Marketing Diploma,F,77,3,2,Manager,5,0,0,1,,6,0,3,Single,
+5114576,32,Rarely,Sales,20,Statistics,Male,80,5,4,Senior Manager,3,1,3,0,18,10,0,2,Married,24610
+5114577,19,No,Analytics,11,CA,Male,82,3,3,Executive,3,0,2,0,18,1,1,1,Single,17904
+5114578,37,Rarely,Analytics,1,Engineer,F,59,3,5,Senior Manager,1,1,4,0,22,12,1,2,Single,22491
+5114579,26,Rarely,Sales,7,Marketing Diploma,Male,59,4,3,Manager,5,1,2,0,18,6,1,4,Divorsed,20256
+5114580,30,No,Sales,5,Statistics,Male,63,3,5,Manager,3,1,2,0,20,5,1,3,Married,20649
+5114581,31,Rarely,Sales,7,CA,Female,65,4,4,Manager,4,1,2,1,18,,3,8,Married,21209
+5114582,52,Rarely,Analytics,9,CA,Male,55,4,1,Manager,4,1,2,0,20,11,7,7,Divorsed,19941
+5114583,40,Rarely,Analytics,5,CA,F,46,3,3,VP,3,0,1,0,19,21,9,9,Divorsed,34033
+5114584,27,Rarely,Analytics,26,Statistics,Female,62,3,1,Executive,1,1,2,0,28,4,1,,M,18886
+5114585,,Rarely,Sales,12,CA,Male,61,3,2,Executive,1,0,2,0,19,2,1,1,Single,17081
+5114586,35,Yes,Sales,13,Other,Male,36,3,2,Manager,1,0,3,1,29,13,6,7,Single,19581
+5114587,41,Rarely,Sales,28,Marketing Diploma,Male,59,4,1,Senior Manager,4,1,3,1,18,10,2,1,Single,25094
+5114588,38,Yes,,3,Statistics,Male,42,3,5,Executive,2,1,1,1,28,1,0,0,Divorsed,16702
+5114589,44,Rarely,Marketing,1,CA,Male,61,4,5,Senior Manager,5,1,9,0,19,24,3,6,Divorsed,25482
+5114590,28,Yes,Analytics,,CA,Male,45,4,3,Executive,4,0,1,0,20,1,0,0,M,17596
+5114591,35,Rarely,Sales,28,Statistics,Male,54,3,5,Manager,1,1,1,1,23,10,,7,Single,20813
+5114592,35,Rarely,Analytics,19,Statistics,Male,48,1,5,Manager,5,0,1,0,16,16,1,10,Married,20208
+5114593,28,Rarely,Analytics,8,Statistics,Female,57,3,5,Executive,4,0,2,1,18,5,2,3,Single,18478
+5114594,37,Rarely,Analytics,1,Statistics,Male,51,4,3,Manager,3,1,1,0,23,7,0,7,Married,
+5114595,49,Rarely,Analytics,7,Statistics,F,41,4,4,AVP,3,1,2,1,24,30,2,12,Married,28966
+5114596,29,Rarely,Analytics,,Statistics,Male,76,3,2,Executive,4,1,0,0,28,6,0,4,Divorsed,17703
+5114597,36,Rarely,Analytics,19,CA,Male,56,2,1,Executive,4,1,1,0,19,7,1,4,Divorsed,18426
+5114598,35,Rarely,Sales,3,Marketing Diploma,Male,77,1,1,Manager,1,1,1,0,17,17,1,10,Married,25725
+5114599,,Yes,Analytics,10,CA,Male,,3,5,Executive,2,1,1,1,17,4,1,2,Divorsed,17326
+5114600,56,No,Analytics,5,CA,Male,42,4,3,AVP,5,1,8,0,21,32,7,3,Single,32756
+5114601,29,Rarely,Analytics,8,Statistics,Male,52,3,3,Manager,2,0,1,1,16,6,1,0,Married,21623
+5114602,46,Rarely,Sales,10,CA,Male,64,4,1,Senior Manager,2,1,1,0,21,9,4,7,Single,24619
+5114603,38,Yes,Sales,24,CA,Female,56,3,1,Executive,2,0,6,0,21,11,1,,Divorsed,18973
+5114604,23,Rarely,Analytics,6,Statistics,Female,36,3,2,Manager,3,0,1,1,25,5,1,3,Married,20171
+5114605,48,Rarely,Analytics,12,Statistics,Female,66,3,2,Executive,3,1,5,0,18,8,3,1,Single,18105
+5114606,37,Rarely,Analytics,3,Engineer,F,79,5,1,Senior Manager,5,1,3,1,27,18,8,8,Married,26252
+5114607,31,Rarely,Sales,3,Statistics,Male,66,4,1,Manager,5,0,2,0,17,11,7,8,Married,25714
+5114608,37,Rarely,Analytics,11,Statistics,F,42,1,2,Senior Manager,1,0,1,1,30,16,6,8,Married,28744
+5114609,39,Rarely,Analytics,3,Statistics,F,53,3,2,Senior Manager,3,1,5,1,20,11,1,1,Single,23861
+5114610,36,Yes,Analytics,21,Statistics,Male,62,3,4,Senior Manager,2,1,3,0,17,11,3,3,Single,25362
+5114611,54,Rarely,Analytics,27,CA,Male,50,1,2,Senior Manager,1,0,4,0,,12,2,3,Married,23005
+5114612,40,Rarely,Analytics,17,Statistics,F,54,3,1,Senior Manager,1,1,6,1,,18,3,3,Single,22945
+5114613,32,No,Sales,5,Statistics,F,59,3,5,Senior Manager,3,0,2,1,25,11,10,7,Married,25852
+5114614,25,Rarely,Sales,9,Statistics,Male,57,2,5,Manager,4,1,0,0,27,4,1,2,Divorsed,19851
+5114615,32,No,Sales,23,Marketing Diploma,F,47,3,1,Manager,3,1,2,0,,10,1,1,Divorsed,22932
+5114616,34,Yes,Analytics,11,Engineer,Male,62,4,4,Manager,3,1,1,0,19,8,7,7,Married,20063
+5114617,26,Rarely,Analytics,3,CA,Female,42,3,5,Executive,4,1,2,0,24,3,3,2,Single,18096
+5114618,25,Rarely,Sales,10,Statistics,Male,68,4,1,Executive,5,0,3,0,17,6,2,2,Married,19400
+5114619,38,Yes,Analytics,30,Statistics,Female,,3,1,Manager,2,0,1,0,16,10,9,9,Single,17406
+5114620,34,Yes,Analytics,32,CA,Female,56,4,3,Manager,3,0,2,0,28,15,4,9,Single,20508
+5114621,50,Rarely,Analytics,23,CA,F,68,3,3,Manager,5,1,2,0,20,17,6,12,Married,22567
+5114622,38,Rarely,Analytics,9,CA,Male,53,1,3,Manager,5,0,5,1,19,14,7,8,Married,21974
+5114623,37,Rarely,Analytics,8,Statistics,F,44,3,2,Senior Manager,5,0,5,0,18,10,1,3,Married,24008
+5114624,31,Rarely,Analytics,12,CA,Male,55,4,4,Executive,3,1,2,0,19,11,2,9,Single,18206
+5114625,19,Rarely,Analytics,6,Statistics,Male,,3,4,Executive,3,0,2,0,19,1,1,1,Single,17420
+5114626,38,Yes,Analytics,3,Statistics,Female,75,1,5,Manager,5,0,6,1,17,17,4,12,Single,20980
+5114627,41,No,Analytics,3,Other,Female,62,4,1,Manager,3,0,2,1,22,10,0,7,Single,21811
+5114628,46,Rarely,Analytics,3,Statistics,Male,51,3,3,AVP,3,1,6,0,18,26,0,1,Divorsed,32861
+5114629,32,Rarely,Analytics,26,CA,Male,66,4,4,Manager,2,0,1,0,27,11,8,9,Divorsed,21582
+5114630,33,Rarely,Sales,9,Statistics,Male,46,3,2,Manager,5,0,2,0,18,,2,2,Married,21392
+5114631,50,Rarely,Analytics,10,Statistics,Male,,3,5,Executive,2,1,4,0,23,8,0,0,Divorsed,17380
+5114632,34,Rarely,Analytics,1,CA,Male,64,3,1,Manager,4,1,1,0,20,5,1,3,Married,
+5114633,30,No,Analytics,10,CA,Male,66,3,5,Manager,5,0,1,0,16,12,6,10,M,18072
+5114634,48,Rarely,Sales,5,Statistics,F,49,1,3,AVP,4,0,7,0,20,30,2,3,Married,31972
+5114635,56,Rarely,Marketing,29,MBA,Male,73,1,5,VP,4,0,5,1,24,36,2,5,Married,35636
+5114636,52,Rarely,Sales,17,Statistics,Female,59,3,4,Manager,1,1,5,0,17,19,1,8,Married,20936
+5114637,42,No,Sales,13,Statistics,Male,58,3,1,Manager,1,1,8,0,20,17,2,11,Single,22230
+5114638,35,Rarely,Analytics,17,Statistics,F,61,4,5,Senior Manager,4,1,1,0,,11,3,3,Single,23606
+5114639,44,Rarely,Analytics,10,Statistics,F,45,3,3,Senior Manager,5,1,9,0,22,11,1,1,Married,25985
+5114640,22,Rarely,Analytics,16,CA,Female,59,3,2,Executive,2,1,1,0,20,1,0,0,Single,17871
+5114641,42,Yes,Analytics,29,Engineer,Female,58,4,3,Manager,1,0,0,0,16,7,0,4,Married,19523
+5114642,54,Rarely,Analytics,8,CA,F,68,3,1,Manager,1,1,4,0,20,14,1,7,Married,21854
+5114643,30,Rarely,Sales,6,CA,Female,64,3,1,Manager,3,1,2,0,20,7,2,3,Married,21561
+5114644,34,Rarely,Analytics,17,CA,Male,60,3,2,Executive,2,1,6,1,19,9,1,5,Divorsed,18436
+5114645,43,Rarely,Analytics,16,Statistics,Male,65,4,2,AVP,3,1,1,0,29,14,6,11,Married,32603
+5114646,35,Rarely,Analytics,1,Statistics,Female,40,1,3,Executive,3,0,3,0,18,7,2,2,Single,17506
+5114647,42,Rarely,Sales,9,Statistics,F,77,3,4,Senior Manager,2,0,4,1,24,17,1,1,Single,29591
+5114648,43,Rarely,Analytics,6,Statistics,Female,67,1,3,Manager,1,1,3,1,19,,2,4,Married,21231
+5114649,41,No,Analytics,11,Statistics,Male,74,3,4,Manager,1,1,4,1,24,9,3,3,Married,20069
+5114650,28,Rarely,Sales,10,Statistics,Male,62,3,2,Manager,1,1,1,0,21,7,0,7,Single,20253
+5114651,35,Yes,Analytics,5,Other,Male,,4,4,Executive,1,0,1,0,18,2,2,2,M,17376
+5114652,38,Rarely,Analytics,3,Statistics,Female,44,3,1,Executive,2,0,2,0,18,18,6,8,Single,18115
+5114653,38,Rarely,Sales,6,Statistics,Male,59,3,5,Senior Manager,2,0,3,0,,13,2,4,Single,23428
+5114654,29,Rarely,Analytics,9,CA,Male,79,4,2,Manager,1,0,1,1,20,10,1,2,Married,20056
+5114655,31,Rarely,Analytics,12,Statistics,Male,,3,2,Executive,1,0,3,1,24,8,0,2,M,17356
+5114656,22,Rarely,Analytics,9,CA,Female,,3,2,Executive,5,1,1,1,22,1,0,0,M,17398
+5114657,32,Yes,Analytics,32,CA,Male,73,4,1,Executive,4,1,1,0,17,7,2,5,Single,19479
+5114658,51,Rarely,Analytics,9,Statistics,Male,51,4,1,Senior Manager,4,0,5,0,21,16,4,7,Divorsed,27490
+5114659,30,Rarely,Sales,3,CA,Female,50,4,1,Executive,3,1,7,1,25,6,1,,M,18800
+5114660,34,Yes,Sales,7,Marketing Diploma,Female,,5,1,Executive,3,0,0,0,21,3,1,0,M,17351
+5114661,,No,Analytics,10,CA,Male,,4,4,Executive,5,0,0,1,27,4,1,2,Single,17321
+5114662,54,Rarely,Analytics,6,CA,Male,56,3,5,VP,5,1,4,0,16,24,1,2,Divorsed,34406
+5114663,,Rarely,Marketing,4,MBA,Male,,3,1,Executive,4,1,3,1,16,7,0,3,M,17277
+5114664,30,Rarely,Sales,17,Statistics,Male,66,3,4,Manager,3,1,8,0,20,4,2,2,Divorsed,20301
+5114665,37,No,Analytics,21,Statistics,Male,80,3,4,Manager,1,1,3,0,26,19,1,10,Single,23779
+5114666,,Rarely,Analytics,24,Statistics,Male,54,3,4,Executive,1,1,9,0,21,6,1,2,Single,17201
+5114667,20,Yes,Analytics,7,Statistics,Female,66,4,3,Executive,1,1,1,1,23,1,1,0,Single,17926
+5114668,61,Rarely,Analytics,4,CA,Male,64,5,5,Senior Manager,1,1,4,0,26,20,1,1,Married,26883
+5114669,,Yes,Analytics,4,CA,Male,30,3,3,Executive,4,0,4,0,17,13,7,2,Single,17088
+5114670,48,Rarely,Analytics,5,CA,F,54,3,5,AVP,3,1,4,0,25,27,6,7,Married,33169
+5114671,26,Rarely,Analytics,3,Engineer,Male,53,3,4,Executive,2,1,5,0,17,8,1,3,Divorsed,19229
+5114672,20,Yes,Sales,3,Engineer,,82,5,1,Executive,5,1,1,0,27,2,1,1,Single,18325
+5114673,60,Yes,Sales,29,Marketing Diploma,F,80,4,5,Senior Manager,5,1,4,0,24,22,13,11,Divorsed,
+5114674,36,Rarely,Sales,,Statistics,Male,70,3,1,Executive,1,0,3,1,26,7,1,2,Single,17644
+5114675,42,Rarely,Sales,9,Marketing Diploma,Male,48,3,2,Manager,4,1,0,0,16,10,4,2,Divorsed,21825
+5114676,50,Yes,Analytics,13,Statistics,F,37,3,2,VP,5,0,10,1,17,23,2,3,Single,34665
+5114677,39,Rarely,Sales,5,Statistics,Female,47,4,3,Manager,3,1,4,0,19,17,5,9,Divorsed,20902
+5114678,42,Rarely,Analytics,4,Statistics,Male,78,3,3,Executive,1,1,4,0,28,13,2,,M,18782
+5114679,35,Yes,Sales,1,Statistics,Male,71,3,1,Senior Manager,5,0,1,0,27,9,1,8,Married,24069
+5114680,23,Rarely,Analytics,6,Statistics,Female,36,3,3,Manager,3,0,1,1,25,5,1,3,Divorsed,20171
+5114681,35,Yes,Sales,12,Marketing Diploma,Male,54,3,5,Manager,2,1,1,0,16,5,0,2,Married,19968
+5114682,38,Yes,Analytics,13,CA,Male,63,3,1,Senior Manager,3,1,7,0,17,18,1,1,Married,26048
+5114683,22,Rarely,Analytics,,Engineer,Male,80,3,3,Executive,1,0,0,0,19,3,2,1,M,17523
+5114684,32,Rarely,Analytics,5,Statistics,Female,68,4,1,Manager,3,1,1,0,17,,6,8,Divorsed,21162
+5114685,28,Yes,Marketing,25,MBA,Female,60,4,2,Executive,4,0,2,0,18,2,1,,M,18863
+5114686,52,Rarely,Analytics,6,CA,F,70,3,1,AVP,4,1,4,0,24,22,2,1,Single,29734
+5114687,35,Rarely,Analytics,,Statistics,Male,63,4,3,Executive,1,1,1,0,23,1,0,1,M,
+5114688,32,Rarely,Analytics,9,CA,Female,61,1,1,Manager,3,1,5,0,17,9,1,3,Divorsed,20175
+5114689,27,Rarely,Analytics,27,Engineer,,68,5,4,Executive,1,0,2,1,24,2,1,1,Single,18340
+5114690,28,Rarely,Analytics,3,CA,Male,46,3,2,Executive,3,1,6,0,22,5,2,1,Single,19382
+5114691,32,No,Sales,27,Marketing Diploma,Male,80,3,5,Manager,2,0,0,0,23,4,2,2,Divorsed,19465
+5114692,47,Rarely,Sales,5,Marketing Diploma,F,71,3,3,AVP,5,0,9,0,29,29,16,10,Married,33048
+5114693,46,Rarely,Sales,5,Engineer,Male,48,5,4,Manager,3,1,1,0,19,10,4,2,Single,22632
+5114694,36,Rarely,Sales,10,Statistics,Female,57,3,2,Manager,1,0,2,1,17,,1,10,Married,21204
+5114695,29,Yes,Analytics,3,CA,Male,47,4,4,Executive,4,0,2,0,21,2,1,1,M,18596
+5114696,50,Rarely,Sales,29,Marketing Diploma,Male,39,4,3,Senior Manager,5,1,4,1,18,20,2,0,Married,25854
+5114697,31,Rarely,Analytics,5,CA,F,54,4,3,Manager,2,1,6,1,,13,1,1,Single,22877
+5114698,37,Rarely,Analytics,1,Statistics,Male,51,4,5,Manager,3,0,1,0,23,7,0,7,Married,20993
+5114699,,Rarely,Sales,3,CA,Female,49,4,3,Executive,3,1,1,0,18,2,0,2,Single,17044
+5114700,56,Yes,Analytics,21,CA,Male,64,3,5,Manager,4,1,4,1,20,18,7,8,Divorsed,22385
+5114701,38,Rarely,Analytics,4,Statistics,F,58,4,1,Manager,1,0,2,0,19,15,4,12,Married,22474
+5114702,41,Rarely,Analytics,7,CA,F,48,3,1,VP,3,1,2,0,20,22,10,10,Married,35033
+5114703,23,Rarely,Analytics,9,CA,Male,63,4,5,Executive,3,0,1,1,16,5,1,,Single,18989
+5114704,33,Yes,Sales,1,Statistics,Female,42,1,1,Manager,5,1,2,0,24,10,1,3,Married,20376
+5114705,26,Yes,Sales,1,CA,Male,52,4,3,Manager,5,0,1,0,17,7,0,7,Single,19294
+5114706,36,Rarely,Analytics,7,Statistics,Male,47,3,3,Executive,2,0,0,0,16,16,10,11,Divorsed,18210
+5114707,40,Rarely,Analytics,27,Statistics,Male,54,3,5,Manager,1,1,8,0,19,19,2,8,Single,20108
+5114708,23,No,Analytics,19,CA,Male,68,2,3,Executive,2,0,2,1,19,2,1,,M,18935
+5114709,49,Yes,Analytics,29,Statistics,Male,67,4,3,Manager,5,1,3,0,25,20,1,3,Single,19284
+5114710,41,Yes,Analytics,19,CA,Male,53,4,3,Manager,3,1,7,0,20,,1,1,Single,21094
+5114711,48,Yes,Sales,6,CA,F,51,3,2,AVP,3,1,10,1,18,29,12,14,Married,29770
+5114712,33,Rarely,Sales,10,Marketing Diploma,Male,69,3,5,Manager,1,1,5,0,18,8,1,4,Married,25204
+5114713,35,Rarely,Analytics,23,Statistics,F,71,2,5,Senior Manager,4,1,7,0,23,10,6,2,Married,26996
+5114714,42,Rarely,Analytics,5,Engineer,Male,58,3,2,VP,1,0,1,0,16,22,11,15,Married,34232
+5114715,44,Rarely,Analytics,1,Statistics,Male,78,1,2,Manager,5,0,2,0,20,10,2,2,Married,20033
+5114716,37,Rarely,Analytics,2,Statistics,Female,56,4,2,Manager,1,1,1,0,18,14,3,11,Married,21474
+5114717,42,Rarely,Analytics,1,Statistics,Female,43,4,1,Manager,1,1,9,1,18,,0,2,Married,21062
+5114718,37,Rarely,Analytics,5,CA,Male,81,3,5,Executive,3,0,5,0,27,17,4,10,Single,18519
+5114719,46,Yes,Sales,29,Statistics,Female,82,3,3,Manager,5,0,3,0,20,6,1,1,Divorsed,20286
+5114720,35,Rarely,Analytics,8,CA,F,47,4,2,Senior Manager,5,0,3,0,18,15,6,9,Single,27631
+5114721,41,Yes,Sales,5,Marketing Diploma,Male,56,3,3,Manager,4,1,1,0,23,8,7,7,Single,24355
+5114722,38,Rarely,Analytics,24,Statistics,Male,52,3,2,Manager,1,1,9,0,19,10,,2,Married,20745
+5114723,34,Rarely,Sales,1,Marketing Diploma,Male,75,1,1,Manager,1,0,0,0,16,16,0,9,Married,24725
+5114724,53,No,Sales,5,Statistics,Male,81,4,3,VP,3,1,2,1,24,34,16,13,Single,35068
+5114725,30,Rarely,Analytics,1,Statistics,Male,55,4,4,Manager,2,1,1,1,17,10,3,0,Divorsed,20126
+5114726,40,Yes,Analytics,11,Statistics,Female,50,3,5,Executive,3,0,2,0,17,9,1,8,Divorsed,19755
+5114727,38,Rarely,Analytics,13,CA,Female,70,3,1,Executive,5,1,7,0,26,18,1,4,Married,19452
+5114728,25,Rarely,Analytics,5,Engineer,Male,32,3,5,Executive,2,0,1,1,20,7,5,6,Divorsed,18691
+5114729,30,Rarely,Analytics,29,CA,Female,64,3,2,Manager,1,0,1,0,18,11,,9,Married,20775
+5114730,50,Rarely,Sales,11,Engineer,Male,58,4,5,AVP,4,0,7,0,23,23,3,4,Married,29120
+5114731,,Rarely,Sales,3,CA,Female,49,4,2,Executive,3,0,1,0,18,2,0,2,Single,17044
+5114732,48,Yes,Sales,,CA,Female,65,3,2,Executive,3,1,2,1,16,19,7,7,M,17655
+5114733,39,Yes,Analytics,3,Statistics,Male,54,3,3,AVP,2,1,7,0,16,21,11,5,Married,27169
+5114734,34,Rarely,Analytics,3,CA,Female,56,4,5,Executive,5,0,1,0,16,6,1,3,Single,
+5114735,36,Rarely,Analytics,8,Other,Male,65,3,4,Executive,2,0,2,0,23,8,0,1,Single,19678
+5114736,38,Rarely,Analytics,8,CA,Male,63,3,5,Manager,2,0,8,0,22,9,1,5,Married,22347
+5114737,38,Rarely,Analytics,11,CA,F,59,5,5,Senior Manager,3,0,3,0,17,20,1,11,Married,28206
+5114738,37,Rarely,Sales,1,Statistics,Male,46,4,3,Senior Manager,3,1,5,0,16,17,11,7,Divorsed,25609
+5114739,25,Rarely,Sales,6,Marketing Diploma,Male,46,4,2,Manager,3,1,1,1,16,6,,3,Single,20744
+5114740,,Rarely,Analytics,10,Statistics,Male,,3,5,Executive,5,1,1,0,25,5,0,4,M,17289
+5114741,43,Yes,Analytics,12,CA,Female,76,3,1,Executive,1,1,2,0,19,13,6,9,Single,19673
+5114742,55,No,Analytics,3,CA,Male,40,4,3,AVP,5,1,7,0,20,31,6,2,Single,31756
+5114743,50,Yes,Analytics,31,Statistics,Male,69,4,4,Manager,5,1,4,0,26,21,2,4,Single,20284
+5114744,30,Rarely,Sales,30,Marketing Diploma,F,37,3,3,Senior Manager,1,0,2,0,28,11,2,10,Married,23639
+5114745,19,Yes,Sales,8,Marketing Diploma,Male,71,3,3,Executive,4,1,2,1,20,1,1,1,Single,17878
+5114746,50,Yes,Sales,1,Other,Male,51,3,2,Manager,3,0,3,1,19,5,0,0,Single,19728
+5114747,37,Rarely,Analytics,6,Statistics,Female,41,3,2,Executive,2,0,6,0,28,8,1,,M,18835
+5114748,38,Rarely,Sales,3,Statistics,Male,48,4,1,Senior Manager,3,1,6,0,17,18,12,8,Divorsed,26609
+5114749,51,Rarely,Marketing,6,Statistics,Male,54,3,1,AVP,4,0,1,1,16,33,0,10,Married,29026
+5114750,,Rarely,Analytics,1,Statistics,Female,,4,1,Executive,5,1,1,1,16,1,0,0,M,17319
+5114751,33,Rarely,Analytics,5,Statistics,Male,,3,2,Executive,4,1,2,0,18,2,1,1,Single,17393
+5114752,19,Rarely,,3,Statistics,Male,47,4,1,Executive,2,0,1,0,27,1,1,0,Single,16102
+5114753,37,Rarely,Analytics,1,Statistics,Female,65,3,4,Manager,4,0,6,0,17,8,4,3,Divorsed,21447
+5114754,45,Rarely,Analytics,12,Statistics,Male,63,3,4,Executive,5,0,2,1,19,9,8,2,Divorsed,18559
+5114755,18,No,,9,CA,Male,80,3,5,Executive,3,0,1,0,17,0,0,0,Single,16904
+5114756,21,Rarely,Sales,5,CA,Female,51,4,2,Executive,3,0,2,0,19,3,1,3,Single,18044
+5114757,37,Rarely,Analytics,5,Other,F,75,3,3,Manager,4,0,5,1,,16,1,1,Married,22962
+5114758,42,Rarely,Sales,3,Marketing Diploma,Male,51,2,5,Senior Manager,5,0,2,0,22,11,1,8,Divorsed,24392
+5114759,55,Rarely,Analytics,4,CA,F,56,3,3,AVP,1,0,7,0,25,30,13,8,Single,33328
+5114760,37,Yes,Analytics,6,Engineer,Male,48,3,3,Executive,4,0,2,0,18,13,1,8,Divorsed,19692
+5114761,39,Rarely,Sales,5,Marketing Diploma,Male,34,3,5,Senior Manager,4,0,8,0,,11,1,1,Single,23351
+5114762,28,Rarely,Analytics,9,Statistics,Male,57,4,1,Executive,3,1,2,0,19,5,3,3,Divorsed,18539
+5114763,29,Rarely,Analytics,8,Engineer,Male,52,3,3,Executive,3,1,2,1,19,3,3,3,Single,19441
+5114764,35,Rarely,Analytics,24,Statistics,Male,50,4,1,Manager,3,0,3,1,18,8,0,1,Married,20916
+5114765,21,Rarely,,11,Statistics,Female,36,4,1,Executive,5,0,1,0,18,1,1,0,Single,16416
+5114766,38,Rarely,Sales,9,CA,Male,70,3,1,Manager,1,1,5,0,20,8,1,2,Married,22502
+5114767,33,No,Analytics,3,Statistics,,63,3,3,Executive,1,1,1,0,18,5,1,3,M,18314
+5114768,42,Rarely,Analytics,10,Other,Male,63,4,2,VP,1,1,8,0,27,24,0,1,Single,34613
+5114769,29,Rarely,Sales,20,Statistics,Male,77,4,5,Manager,3,1,1,0,,10,0,4,Married,23620
+5114770,33,Rarely,Analytics,14,Statistics,Female,53,3,1,Executive,2,0,3,0,23,5,0,2,Single,18452
+5114771,39,Rarely,Sales,3,Statistics,Male,41,1,2,Senior Manager,3,0,0,0,,9,0,7,Single,22880
+5114772,36,Rarely,Sales,30,Statistics,Male,56,3,1,Manager,1,0,2,1,24,11,8,8,Single,21813
+5114773,55,Rarely,Sales,3,CA,Male,37,3,1,Manager,1,1,4,0,21,12,7,3,Single,20160
+5114774,18,Yes,,6,Marketing Diploma,Male,69,3,2,Executive,4,0,1,1,19,0,0,0,Single,16878
+5114775,37,Yes,Sales,22,CA,Female,54,3,5,Executive,2,0,5,0,20,10,0,0,Divorsed,17973
+5114776,33,No,Analytics,5,Engineer,Male,60,3,3,Manager,4,0,5,0,20,11,1,7,M,18055
+5114777,32,Rarely,Analytics,10,CA,F,41,3,1,Senior Manager,2,1,2,1,,12,5,11,Single,23143
+5114778,23,Rarely,Analytics,5,CA,Male,58,2,3,Executive,5,1,2,0,21,5,0,2,Divorsed,17819
+5114779,23,Rarely,,1,Statistics,Male,47,3,1,Executive,3,0,1,0,27,1,0,1,Divorsed,16223
+5114780,42,Rarely,Marketing,11,MBA,F,31,3,5,AVP,5,1,0,0,19,21,0,9,Divorsed,31799
+5114781,34,Yes,Sales,13,Marketing Diploma,Male,48,4,1,Manager,1,1,4,0,20,10,1,2,Single,20682
+5114782,38,Rarely,Analytics,4,Engineer,Female,32,3,1,Manager,3,0,3,1,25,19,2,2,Single,1000
+5114783,33,No,Analytics,3,Statistics,,72,4,5,Executive,4,0,7,0,26,6,1,3,Divorsed,18332
+5114784,51,Rarely,Analytics,7,Statistics,Male,51,3,3,VP,3,0,7,0,18,23,15,15,Single,34537
+5114785,27,Rarely,Analytics,18,Statistics,Female,,3,1,Executive,3,1,1,1,18,8,7,7,Single,17394
+5114786,41,Rarely,Sales,17,Statistics,Female,56,3,2,Manager,5,1,2,0,21,6,2,3,Married,20639
+5114787,32,Rarely,Sales,9,Engineer,Female,65,4,2,Manager,4,1,1,1,16,13,11,9,Divorsed,
+5114788,30,Rarely,Sales,13,Statistics,Male,69,3,2,Executive,3,0,2,0,17,2,1,1,Single,18642
+5114789,34,Rarely,Analytics,24,CA,Male,81,1,2,Executive,4,1,2,0,24,15,3,14,M,18028
+5114790,38,Rarely,Analytics,13,CA,Female,73,3,5,Executive,4,1,2,0,17,9,8,8,Married,19936
+5114791,45,Yes,Marketing,4,MBA,Male,39,3,1,Manager,1,0,5,1,17,15,1,3,Married,21743
+5114792,58,Yes,Analytics,3,Statistics,Male,,4,4,Executive,1,0,9,1,19,3,0,0,M,17380
+5114793,29,Rarely,Analytics,14,Other,Male,46,4,2,Manager,4,0,4,1,18,10,0,,Married,19025
+5114794,30,Rarely,Analytics,11,CA,Male,81,4,1,Manager,1,0,2,1,21,,2,3,Married,21056
+5114795,27,Rarely,Sales,9,Marketing Diploma,Female,56,3,3,Manager,4,1,1,0,23,,0,7,Divorsed,21214
+5114796,32,Rarely,Sales,23,Statistics,Female,73,5,5,Manager,3,0,4,1,17,5,3,3,Divorsed,20559
+5114797,31,Rarely,Analytics,9,Engineer,Female,50,4,4,Manager,2,0,1,0,18,11,7,8,Divorsed,20627
+5114798,35,Rarely,Sales,11,CA,Male,55,4,5,Senior Manager,5,0,9,0,22,15,6,0,Married,25306
+5114799,33,Rarely,Sales,3,CA,Male,63,3,4,Manager,1,1,1,0,19,6,0,4,Married,20505
+5114800,38,Rarely,Analytics,3,CA,Male,62,3,3,Executive,3,1,6,1,18,6,0,1,M,
+5114801,56,Rarely,Analytics,15,Statistics,Female,72,3,3,Executive,4,1,9,1,23,7,4,3,Divorsed,19963
+5114802,56,Rarely,Analytics,3,CA,Male,53,3,4,VP,5,1,1,1,20,38,5,14,Single,35045
+5114803,46,Rarely,Sales,5,Engineer,Male,48,5,3,Manager,3,0,1,0,19,10,4,2,Single,22632
+5114804,30,Rarely,Sales,30,Marketing Diploma,F,37,3,4,Senior Manager,2,1,2,0,28,11,2,10,Divorsed,23639
+5114805,26,Rarely,Sales,29,Marketing Diploma,Male,66,3,2,Manager,4,1,1,0,25,,1,4,Divorsed,21272
+5114806,41,Rarely,Sales,4,Statistics,Male,57,4,5,Manager,4,0,2,0,16,14,0,4,Married,23938
+5114807,32,No,Analytics,12,CA,,48,4,3,Executive,5,0,1,1,28,5,2,3,Single,18321
+5114808,46,No,Analytics,26,Statistics,Male,44,3,4,Manager,5,0,2,1,21,10,1,9,Married,19633
+5114809,36,No,Analytics,10,Statistics,Male,66,1,3,Executive,4,0,1,0,27,5,0,2,M,17810
+5114810,27,Rarely,Analytics,1,CA,Male,52,3,5,Executive,4,1,1,0,16,5,0,,M,18816
+5114811,35,Rarely,Analytics,5,Statistics,Male,56,4,3,Manager,5,0,7,0,19,14,6,10,Divorsed,21957
+5114812,43,Rarely,Analytics,9,Other,Female,74,3,1,Manager,3,1,4,1,19,8,0,2,Married,19522
+5114813,56,Rarely,Analytics,5,CA,Male,80,3,3,VP,5,0,6,1,19,25,2,5,Married,35859
+5114814,25,Rarely,Marketing,,MBA,Male,60,5,2,Executive,3,1,2,0,17,2,1,1,M,17555
+5114815,49,Rarely,Sales,12,Marketing Diploma,F,43,3,2,Senior Manager,2,1,1,0,23,9,7,7,Divorsed,22654
+5114816,30,Yes,Analytics,6,Statistics,Male,75,4,4,Executive,1,1,9,0,17,10,0,,M,18761
+5114817,36,Rarely,Analytics,21,Statistics,Male,50,1,5,Manager,5,0,2,0,17,,2,11,Married,21208
+5114818,30,Yes,Sales,16,Engineer,Female,53,3,2,Manager,4,0,6,0,17,8,1,1,Single,21765
+5114819,33,Yes,Analytics,8,Statistics,Male,36,3,3,Manager,3,0,1,0,25,9,2,8,Married,20968
+5114820,53,Rarely,Analytics,8,Statistics,Male,59,1,5,AVP,3,1,3,0,24,32,1,3,Married,
+5114821,48,Rarely,Analytics,1,Statistics,F,40,4,4,AVP,5,1,7,0,16,21,0,2,Divorsed,30402
+5114822,54,Rarely,Analytics,5,Engineer,F,80,4,2,Senior Manager,1,0,1,0,22,35,2,10,Married,26169
+5114823,42,Rarely,Analytics,8,Statistics,Male,57,1,2,Manager,4,1,4,0,,12,2,3,Single,22870
+5114824,36,No,Analytics,19,Statistics,Male,78,3,2,Manager,2,0,2,0,,18,0,9,Single,22779
+5114825,24,Yes,Analytics,8,Statistics,Female,55,3,2,Executive,3,1,1,1,21,6,1,2,Divorsed,17886
+5114826,43,Rarely,Analytics,16,Statistics,Male,65,4,3,AVP,3,0,1,0,29,14,6,11,Married,32603
+5114827,21,Rarely,Analytics,7,Engineer,Male,56,3,5,Executive,5,0,2,0,25,2,1,,Single,18973
+5114828,35,Rarely,Analytics,1,CA,Male,30,4,1,Executive,3,1,1,0,23,6,0,4,Single,17859
+5114829,40,Rarely,Sales,26,Marketing Diploma,Male,57,4,5,Senior Manager,4,1,2,1,17,9,1,0,Single,24094
+5114830,43,Rarely,Analytics,5,CA,Male,70,4,4,Executive,4,0,5,0,20,5,,1,Married,20841
+5114831,28,Rarely,Analytics,6,Engineer,Male,50,3,3,Executive,3,0,1,1,18,2,2,2,Single,18441
+5114832,33,Rarely,Analytics,26,Statistics,Male,44,4,1,Manager,4,1,1,0,18,5,0,2,Single,19320
+5114833,33,Rarely,Marketing,3,MBA,Male,67,3,1,Executive,3,0,1,0,18,5,1,4,M,18600
+5114834,30,Rarely,Sales,3,Engineer,Male,,3,1,Executive,4,1,1,0,23,1,0,0,Divorsed,17476
+5114835,22,Rarely,Analytics,16,CA,Female,59,3,3,Executive,2,0,1,0,20,1,0,0,Single,17871
+5114836,37,Rarely,Analytics,4,Other,Female,35,3,1,Manager,4,1,3,0,20,8,0,1,Single,19107
+5114837,42,Rarely,Sales,5,Marketing Diploma,Male,45,3,5,Manager,5,0,7,0,18,9,1,5,Single,20155
+5114838,44,Rarely,Analytics,4,Statistics,Male,,3,3,Executive,5,0,4,0,17,10,1,2,M,17362
+5114839,53,No,Analytics,22,CA,Male,43,3,5,Executive,1,0,1,0,24,6,2,3,Married,20258
+5114840,25,Yes,Analytics,10,Statistics,Female,57,3,1,Executive,3,1,2,1,22,7,2,,M,18886
+5114841,46,Rarely,Sales,10,CA,Male,64,4,2,Senior Manager,2,1,1,0,21,9,4,7,Single,24619
+5114842,19,Rarely,Marketing,,Engineer,Male,52,4,2,Executive,1,1,1,0,17,1,0,0,Single,17564
+5114843,35,Rarely,Analytics,26,CA,F,57,3,1,Senior Manager,3,0,1,1,16,16,10,1,Married,
+5114844,53,Rarely,Sales,3,Statistics,F,78,4,5,AVP,2,1,2,0,21,31,3,7,Divorsed,30427
+5114845,29,Rarely,Analytics,2,CA,Male,36,3,2,Executive,1,0,9,1,19,4,2,2,Married,19787
+5114846,34,Yes,Analytics,10,Statistics,Male,63,3,4,Manager,5,0,4,0,22,11,0,7,Married,20346
+5114847,43,Yes,Analytics,11,Statistics,Male,68,3,5,VP,1,0,2,0,19,25,15,10,Married,34430
+5114848,50,Rarely,Analytics,8,CA,F,43,4,4,VP,3,1,5,1,17,29,13,8,Married,33740
+5114849,36,Rarely,Analytics,13,CA,F,51,4,4,Senior Manager,2,0,0,0,16,15,7,8,Single,23858
+5114850,33,Yes,Analytics,4,Statistics,,70,3,3,Executive,5,0,1,1,16,10,9,7,Single,18348
+5114851,57,Rarely,Analytics,1,Statistics,Male,63,1,4,Manager,3,0,0,0,29,13,2,8,Divorsed,19900
+5114852,51,Rarely,Sales,11,Marketing Diploma,Male,56,3,1,Executive,4,1,8,0,21,5,3,3,Divorsed,19875
+5114853,48,Rarely,Analytics,1,Statistics,F,40,4,4,AVP,5,1,7,0,16,21,0,2,Married,30402
+5114854,33,Yes,Analytics,19,Statistics,Female,74,5,1,Executive,5,0,2,1,28,11,7,8,Single,19919
+5114855,24,Rarely,,23,MBA,Male,58,5,4,Executive,3,1,1,0,16,1,0,0,Married,16555
+5114856,28,No,Sales,3,Marketing Diploma,Male,75,3,1,Manager,4,1,1,1,19,7,2,5,Divorsed,22349
+5114857,53,Rarely,Sales,5,Marketing Diploma,Female,59,5,5,VP,2,0,2,0,21,34,7,10,Divorsed,35845
+5114858,39,No,Marketing,5,MBA,Male,82,3,4,Executive,4,0,6,0,19,14,4,9,M,18592
+5114859,35,Rarely,Analytics,3,CA,Male,66,3,2,Manager,4,0,2,0,21,6,2,4,Married,20325
+5114860,30,Rarely,Analytics,18,CA,F,65,3,5,Senior Manager,5,1,1,1,28,9,0,8,Divorsed,26916
+5114861,28,Yes,Analytics,13,Statistics,Male,34,3,2,Senior Manager,5,1,2,0,27,10,2,8,Married,24793
+5114862,45,Rarely,Analytics,21,CA,Male,65,5,4,Senior Manager,5,0,2,1,23,24,0,7,Married,25851
+5114863,26,Rarely,Sales,13,Statistics,Male,59,3,3,Manager,1,1,1,0,20,6,2,2,Single,20950
+5114864,43,Yes,Sales,3,Statistics,Male,62,3,5,Manager,1,1,1,0,25,7,7,7,Married,20675
+5114865,32,Rarely,Sales,13,CA,F,58,3,2,Manager,1,0,3,1,17,9,2,5,Married,22583
+5114866,,Rarely,Sales,12,CA,Male,61,3,4,Executive,1,1,2,0,19,2,1,1,Single,17081
+5114867,36,Rarely,Marketing,29,Statistics,F,33,3,1,Senior Manager,1,1,2,1,22,10,2,8,Single,24837
+5114868,47,Rarely,Analytics,1,Engineer,Male,74,3,1,Executive,2,0,7,0,17,17,1,2,Divorsed,18420
+5114869,28,Rarely,Analytics,10,CA,Female,,3,2,Executive,3,0,5,0,23,6,2,2,M,17377
+5114870,46,Rarely,Marketing,27,CA,Male,38,3,4,Executive,4,1,2,0,22,7,1,5,Single,18177
+5114871,32,Rarely,Analytics,12,Statistics,Male,44,4,3,Executive,4,1,1,1,22,4,3,3,Single,18657
+5114872,26,Rarely,Sales,1,Statistics,Male,57,3,1,Manager,3,1,1,0,22,8,7,7,Divorsed,20296
+5114873,34,No,Sales,5,Marketing Diploma,Female,64,3,1,Manager,4,1,9,0,21,,2,8,Single,21147
+5114874,46,Yes,Sales,6,Marketing Diploma,Male,68,3,5,Manager,2,0,4,1,26,14,,8,Single,20772
+5114875,41,Rarely,Sales,7,Marketing Diploma,Male,69,4,1,Senior Manager,1,0,8,0,17,16,3,12,Married,26855
+5114876,47,Rarely,,3,Statistics,Female,65,4,5,Executive,2,1,1,1,23,3,1,2,Single,18294
+5114877,33,Rarely,Sales,17,Statistics,F,74,3,1,Senior Manager,5,0,2,1,,11,0,0,Single,23564
+5114878,37,Rarely,Analytics,13,Engineer,F,65,3,5,Senior Manager,3,1,4,0,,11,2,8,Married,23094
+5114879,57,Rarely,Sales,30,Marketing Diploma,Male,56,4,4,AVP,2,0,3,0,17,32,0,0,Married,29118
+5114880,29,Yes,Analytics,15,Other,F,54,3,4,Senior Manager,2,0,0,1,17,9,7,7,Single,22553
+5114881,37,Rarely,Analytics,9,Statistics,Female,57,2,5,Manager,2,1,4,0,18,6,1,,Divorsed,19038
+5114882,23,Rarely,Analytics,10,CA,Male,37,3,4,Executive,5,0,1,0,19,5,0,2,Divorsed,17500
+5114883,31,Yes,Analytics,30,CA,Male,71,4,2,Executive,4,0,0,0,16,6,1,4,Single,
+5114884,38,Rarely,Sales,8,Marketing Diploma,Female,46,4,1,Manager,2,1,0,0,25,8,0,,Single,19028
+5114885,39,Yes,Analytics,10,Statistics,Male,59,1,4,Executive,3,1,2,0,17,5,1,4,M,18610
+5114886,47,Rarely,Analytics,6,Statistics,Male,42,3,5,VP,3,1,4,0,16,21,1,1,Married,33300
+5114887,53,Rarely,Sales,5,Marketing Diploma,Female,59,5,4,VP,1,1,2,0,21,34,7,10,Married,35845
+5114888,,Rarely,Marketing,14,MBA,Male,,4,1,Executive,5,0,4,1,20,4,2,0,M,17335
+5114889,40,Rarely,Sales,11,Marketing Diploma,Male,67,4,2,Senior Manager,4,1,2,0,17,11,0,0,Married,24705
+5114890,40,No,Analytics,10,Other,Male,51,3,3,Manager,3,1,3,0,16,11,0,,M,18975
+5114891,42,Rarely,Analytics,3,Other,Male,68,4,3,Manager,1,0,3,0,28,14,0,0,Single,21781
+5114892,24,Rarely,Analytics,15,Other,Male,80,3,2,Executive,1,0,2,0,19,6,2,5,Single,18647
+5114893,33,Yes,Analytics,8,Statistics,Female,49,1,5,Executive,3,1,4,1,20,5,1,4,Single,18432
+5114894,25,Rarely,Analytics,4,CA,Male,61,3,3,Executive,5,0,5,0,18,6,0,,Divorsed,19031
+5114895,32,Rarely,Analytics,11,CA,Male,67,3,3,Senior Manager,1,1,2,0,30,10,0,0,Single,26244
+5114896,38,Rarely,Analytics,3,Statistics,Male,53,4,1,Manager,3,0,2,0,24,8,1,8,Married,21993
+5114897,35,Rarely,Analytics,9,Statistics,Female,47,4,2,Manager,4,0,7,0,21,13,1,1,Married,20505
+5114898,45,Rarely,Marketing,4,Statistics,Female,46,3,5,Executive,1,0,5,1,24,9,3,3,Married,19195
+5114899,21,Rarely,Analytics,13,CA,Male,34,3,1,Executive,3,0,2,1,17,2,2,2,Single,17009
+5114900,29,Rarely,Analytics,6,CA,F,65,3,3,Senior Manager,4,1,1,0,23,11,2,8,Married,23655
+5114901,28,Rarely,Analytics,3,CA,Male,54,3,5,Executive,4,1,2,0,17,6,1,5,Married,19816
+5114902,,Yes,Sales,13,Statistics,Male,74,4,5,Executive,5,1,1,0,23,1,0,0,M,17033
+5114903,42,Rarely,Sales,3,Statistics,F,66,3,4,Manager,2,1,9,1,17,9,1,6,Single,21993
+5114904,54,Rarely,Analytics,10,Statistics,Male,61,1,1,AVP,3,1,4,0,25,33,2,4,Married,30814
+5114905,31,Yes,Analytics,30,CA,Male,71,4,4,Executive,4,1,0,0,16,6,1,4,Single,18479
+5114906,41,Rarely,Sales,3,Statistics,Male,58,3,5,AVP,4,1,1,0,24,22,0,4,Single,31015
+5114907,43,No,Analytics,26,Statistics,Male,39,4,5,Manager,3,0,2,0,18,21,4,8,Single,20332
+5114908,47,Rarely,Analytics,18,Statistics,Male,54,3,4,VP,4,1,6,0,17,26,1,4,Divorsed,35081
+5114909,45,Rarely,Analytics,7,Other,Male,52,3,2,Senior Manager,5,1,4,1,19,17,0,0,Divorsed,28245
+5114910,36,Rarely,Analytics,17,Other,Male,41,4,5,Executive,4,1,2,1,30,6,1,3,Married,19743
+5114911,34,Rarely,Sales,25,CA,Female,40,4,2,Manager,4,1,0,1,28,16,10,10,Single,19599
+5114912,46,Rarely,Analytics,1,CA,Male,67,3,1,Senior Manager,5,0,7,0,21,17,0,3,Married,
+5114913,42,No,Analytics,11,Engineer,Male,38,3,2,Executive,3,1,3,0,27,10,3,3,M,17936
+5114914,38,Rarely,Analytics,3,CA,Male,51,3,1,Manager,4,0,4,0,16,7,1,4,Married,19855
+5114915,21,Rarely,Sales,,Statistics,Female,60,1,3,Executive,4,0,1,0,20,1,0,0,Single,17716
+5114916,56,Rarely,Analytics,5,Statistics,F,69,3,2,AVP,1,0,3,1,19,31,2,3,Single,32659
+5114917,30,Rarely,Sales,6,Statistics,F,41,3,1,Senior Manager,1,0,2,0,17,12,7,4,Married,24419
+5114918,28,Rarely,Sales,5,Marketing Diploma,Male,57,3,1,Executive,5,1,1,0,17,6,1,,Married,19041
+5114919,,Rarely,Marketing,14,MBA,Male,,4,1,Executive,5,1,4,1,20,4,2,0,M,17335
+5114920,33,Rarely,Analytics,8,Statistics,Male,82,1,4,Executive,4,0,1,1,18,8,1,6,Married,19298
+5114921,50,Rarely,Analytics,25,Statistics,Male,65,3,3,AVP,3,0,3,1,23,22,1,5,Married,28973
+5114922,54,Rarely,,9,Marketing Diploma,Male,36,3,4,Manager,3,0,3,1,26,14,5,6,Divorsed,18306
+5114923,32,Yes,Sales,29,Marketing Diploma,Male,65,3,5,Manager,1,1,2,1,17,11,1,9,Married,21617
+5114924,31,Rarely,Sales,14,CA,Male,46,3,4,Manager,5,0,2,0,22,9,1,2,Married,19233
+5114925,,No,Analytics,10,CA,Male,,4,3,Executive,5,0,0,1,27,4,1,2,Single,
+5114926,44,Rarely,Analytics,11,Other,Female,76,3,5,Manager,3,0,5,1,20,9,1,3,Married,20522
+5114927,54,Yes,Analytics,12,CA,F,57,3,1,AVP,1,1,3,0,25,26,1,12,Married,31032
+5114928,50,Yes,Analytics,23,CA,Male,58,5,1,AVP,1,1,1,1,18,32,13,9,Single,29411
+5114929,33,Rarely,Analytics,7,Statistics,F,70,4,1,Manager,3,0,2,0,18,15,7,9,Divorsed,22162
+5114930,55,Rarely,Analytics,2,CA,Male,51,1,1,AVP,1,0,2,0,18,31,0,0,Married,29732
+5114931,35,Rarely,Marketing,9,Engineer,Male,80,3,4,Executive,3,0,1,0,22,6,1,4,Single,19323
+5114932,42,Rarely,Sales,6,Statistics,Male,59,4,5,Manager,4,1,3,0,17,15,1,5,Married,24938
+5114933,35,Rarely,Analytics,15,Other,Male,39,4,2,Executive,4,0,1,1,29,5,0,,M,18743
+5114934,39,Rarely,Sales,13,Marketing Diploma,Male,75,4,5,Senior Manager,3,0,1,1,20,10,3,8,Married,24740
+5114935,,Rarely,Sales,6,Engineer,Male,56,3,3,Manager,2,0,3,0,19,19,0,0,Divorsed,17086
+5114936,44,Yes,Analytics,12,CA,Male,74,3,1,Manager,3,1,4,1,19,11,5,8,Married,21679
+5114937,22,Yes,Sales,3,Engineer,Female,69,4,1,Executive,4,1,2,1,17,4,2,3,Single,18174
+5114938,31,Rarely,Sales,14,CA,Male,46,3,5,Manager,5,1,2,0,22,9,1,2,Married,19233
+5114939,34,Yes,Analytics,6,Statistics,Female,58,3,2,Executive,3,1,2,1,17,9,4,,M,18909
+5114940,34,Rarely,Analytics,5,Statistics,Male,62,3,4,Executive,1,1,1,0,20,5,1,3,Single,18500
+5114941,34,Rarely,Analytics,3,CA,F,67,2,5,AVP,3,1,5,0,25,11,1,6,Married,32184
+5114942,34,Yes,Sales,7,Marketing Diploma,Female,,5,1,Executive,3,1,0,0,21,3,1,0,M,17351
+5114943,36,No,Analytics,11,Statistics,Female,54,3,2,Manager,3,0,2,0,18,16,3,10,Married,20148
+5114944,31,Rarely,Sales,8,Marketing Diploma,Male,73,3,2,Manager,1,0,4,0,17,13,1,7,Married,22547
+5114945,59,Rarely,Sales,26,Statistics,F,59,3,2,Senior Manager,5,1,7,0,16,28,7,9,Single,22637
+5114946,47,Rarely,Analytics,16,Statistics,Male,36,3,4,Manager,4,0,7,0,20,20,1,10,Single,21562
+5114947,29,Rarely,Sales,,Statistics,Male,59,3,1,Executive,3,0,1,0,16,1,0,0,Single,17642
+5114948,49,Rarely,Analytics,3,Statistics,F,42,4,4,AVP,5,1,8,0,17,22,1,3,Divorsed,31402
+5114949,18,Yes,,6,Marketing Diploma,Male,69,3,3,Executive,4,0,1,1,19,0,0,0,Single,16878
+5114950,43,Rarely,Sales,15,Marketing Diploma,Male,79,3,2,Manager,1,0,4,1,18,,1,1,Married,21087
+5114951,52,Rarely,Analytics,11,Statistics,Male,53,4,5,Senior Manager,4,0,6,0,22,17,5,8,Married,28490
+5114952,30,Rarely,Sales,8,Marketing Diploma,Male,57,3,4,Executive,4,1,0,0,19,4,1,2,Single,17983
+5114953,42,Rarely,Analytics,18,Statistics,Female,52,2,5,Manager,5,1,3,1,18,10,0,2,Single,21545
+5114954,42,Rarely,Sales,13,Marketing Diploma,Male,77,3,1,Manager,1,0,3,1,17,14,0,0,Married,20087
+5114955,59,Rarely,Sales,13,CA,Male,39,3,3,AVP,3,1,1,0,19,39,2,9,Single,29872
+5114956,29,Rarely,Sales,8,CA,Male,56,3,3,Manager,5,1,1,0,24,7,2,4,Single,24463
+5114957,42,Rarely,Marketing,3,MBA,Male,61,4,4,VP,3,1,2,0,18,23,3,11,Married,35189
+5114958,55,Rarely,Analytics,5,Engineer,F,62,3,4,Senior Manager,3,1,10,0,18,17,1,4,Married,29549
+5114959,40,Rarely,Sales,5,Statistics,Male,43,1,2,Senior Manager,3,1,1,0,24,10,1,8,Single,23880
+5114960,35,Rarely,Analytics,3,Statistics,Male,44,3,2,Executive,1,0,2,0,18,11,9,9,M,18691
+5114961,33,No,Sales,17,Statistics,Female,36,3,3,Manager,1,0,1,1,30,7,1,2,Married,20368
+5114962,46,Yes,Analytics,10,Statistics,Male,79,1,2,Manager,3,0,5,0,23,10,1,3,Married,22434
+5114963,52,Rarely,Analytics,7,Statistics,Male,36,3,5,Executive,3,0,10,1,18,19,3,8,Divorsed,18461
+5114964,39,Yes,Analytics,3,Engineer,F,64,3,5,Senior Manager,3,0,0,0,30,20,11,8,Single,25938
+5114965,,Rarely,Analytics,5,Statistics,Male,49,4,2,Executive,2,1,2,0,28,2,2,1,Single,17102
+5114966,46,No,Sales,12,Statistics,Female,67,4,5,Manager,3,0,2,0,19,16,5,13,Married,21593
+5114967,27,Yes,Marketing,20,Statistics,Female,60,3,5,Executive,3,0,1,1,17,9,2,,M,18741
+5114968,30,Rarely,Analytics,11,Other,Male,79,5,5,Executive,5,1,2,1,17,8,1,8,Divorsed,18119
+5114969,47,Rarely,Sales,5,Statistics,Male,76,3,1,Senior Manager,1,0,5,1,18,14,1,4,Married,26368
+5114970,41,Rarely,Sales,13,Engineer,F,56,4,5,Manager,4,0,8,0,,8,2,4,Married,22852
+5114971,27,Rarely,Analytics,18,Statistics,Female,,3,4,Executive,3,0,1,1,18,8,7,7,Single,17394
+5114972,42,Rarely,Analytics,24,Statistics,F,44,3,5,AVP,2,1,2,0,19,16,0,0,Single,30992
+5114973,51,Rarely,Analytics,3,CA,Male,54,5,3,Manager,4,1,5,0,23,13,1,2,Married,20482
+5114974,31,Rarely,Sales,8,Marketing Diploma,F,32,4,3,Manager,3,1,2,0,19,11,2,3,Married,22118
+5114975,36,Rarely,Analytics,9,Statistics,Male,54,5,1,Manager,2,1,2,0,19,18,12,9,Single,22646
+5114976,34,Rarely,Analytics,9,Statistics,Female,32,3,2,Manager,5,1,3,0,19,7,0,0,Married,20121
+5114977,46,Rarely,Analytics,9,Statistics,Female,74,4,2,Manager,5,0,8,1,28,19,1,7,Married,19615
+5114978,36,Yes,Sales,8,Marketing Diploma,Female,53,1,2,Manager,5,0,2,0,21,17,6,13,Married,19639
+5114979,54,Rarely,Analytics,6,CA,Male,56,3,2,VP,5,0,4,0,16,24,1,2,Married,34406
+5114980,37,Rarely,Analytics,8,CA,Male,30,3,5,Senior Manager,3,0,4,0,18,16,0,2,Single,28664
+5114981,36,Rarely,Analytics,6,Statistics,Male,62,3,4,Manager,4,1,8,0,21,16,3,7,Single,20914
+5114982,26,Rarely,Sales,6,Other,Female,30,4,4,Executive,3,0,0,0,23,5,0,0,Single,17966
+5114983,51,Yes,Sales,4,Statistics,Male,66,3,2,Manager,3,0,8,0,,13,1,2,Married,22728
+5114984,36,Rarely,Sales,17,Marketing Diploma,Female,68,4,3,Manager,5,0,4,0,18,11,0,2,Divorsed,20647
+5114985,28,Rarely,Sales,14,Marketing Diploma,F,54,3,3,Manager,3,1,3,1,16,6,2,2,Single,24854
+5114986,37,No,Analytics,6,Engineer,Male,54,1,4,Executive,3,1,0,0,19,7,1,3,Single,18500
+5114987,28,Rarely,Sales,5,Marketing Diploma,Male,57,3,3,Executive,5,0,1,0,17,6,1,,Married,19041
+5114988,35,Rarely,Analytics,7,Statistics,Male,66,3,3,Executive,3,1,0,1,19,4,2,2,Divorsed,18506
+5114989,,Yes,Analytics,3,Statistics,Male,57,3,3,Executive,5,1,6,1,19,6,1,2,Divorsed,17042
+5114990,50,Yes,Sales,9,Engineer,Male,50,3,4,Manager,3,1,3,1,19,18,1,3,Divorsed,21796
+5114991,55,Rarely,Sales,5,Statistics,F,43,4,1,Senior Manager,3,1,7,0,17,14,8,1,Married,26686
+5114992,40,Rarely,Analytics,3,CA,Female,,4,4,Executive,1,0,0,1,25,5,2,3,Single,17342
+5114993,33,Rarely,Analytics,3,Statistics,Male,73,3,4,Executive,5,0,2,0,19,2,1,,Single,18956
+5114994,35,Rarely,Analytics,29,Statistics,Male,46,1,3,Manager,3,1,1,0,22,10,6,8,M,18407
+5114995,31,Rarely,Analytics,21,Statistics,Female,77,3,5,Executive,3,0,2,0,20,6,1,5,Single,18632
+5114996,38,Rarely,Analytics,3,Statistics,F,58,4,3,Manager,2,0,2,0,19,15,4,12,Divorsed,22474
+5114997,35,Rarely,Sales,17,Engineer,Female,33,3,1,Executive,3,0,2,1,24,9,1,7,M,18579
+5114998,18,Rarely,,11,CA,Female,69,4,5,Executive,3,1,1,0,17,0,0,0,Single,16200
+5114999,48,Rarely,Analytics,12,Statistics,Female,66,3,3,Executive,3,1,5,0,18,8,3,1,Single,18105
+5115000,41,No,Marketing,5,MBA,Male,60,5,2,Manager,4,1,6,0,24,10,1,2,Married,21430
+5115001,32,Rarely,Marketing,5,MBA,Male,64,4,3,Manager,5,1,4,0,18,10,2,1,Married,22410
+5115002,29,No,Analytics,3,Statistics,F,57,5,3,Manager,2,0,1,0,,11,8,6,Divorsed,22674
+5115003,60,Rarely,Analytics,8,Statistics,F,41,3,5,VP,5,0,5,0,16,33,11,10,Divorsed,34566
+5115004,28,Rarely,Analytics,7,Statistics,Male,78,3,3,Executive,3,1,2,0,17,6,1,4,M,18517
+5115005,22,Yes,Analytics,4,Statistics,Male,48,4,4,Executive,2,1,0,1,16,1,0,0,Divorsed,17853
+5115006,34,Rarely,,6,MBA,Male,59,3,1,Executive,4,0,4,1,17,8,1,4,M,18277
+5115007,55,Rarely,Analytics,8,CA,Male,58,3,2,VP,5,0,5,0,17,25,2,3,Married,35406
+5115008,29,Rarely,Analytics,5,Statistics,Male,81,3,2,Executive,3,0,3,0,17,6,1,1,Single,19485
+5115009,54,Rarely,Analytics,2,CA,F,54,3,1,AVP,1,1,6,0,24,29,12,7,Single,32328
+5115010,42,Rarely,Analytics,19,Statistics,Male,35,3,5,Manager,5,1,6,1,22,9,1,2,Married,20410
+5115011,49,Rarely,Analytics,23,CA,Male,53,3,5,Executive,3,0,5,0,23,14,1,1,Divorsed,18259
+5115012,26,Rarely,Sales,12,Statistics,Male,70,4,4,Executive,5,1,4,0,18,7,3,3,Divorsed,20400
+5115013,32,Yes,Analytics,23,Statistics,Male,68,3,4,Senior Manager,3,1,4,0,18,13,1,1,Divorsed,25824
+5115014,36,Rarely,Analytics,5,Statistics,Male,46,4,1,Senior Manager,4,1,3,0,24,16,7,5,Married,26274
+5115015,42,No,Analytics,8,Statistics,Male,67,4,5,Executive,5,1,7,0,23,6,1,1,M,18107
+5115016,29,Rarely,Analytics,,CA,Female,62,4,4,Executive,2,1,6,0,19,8,0,3,M,17532
+5115017,56,Rarely,Sales,29,Marketing Diploma,Male,62,4,2,VP,1,1,2,0,27,37,3,14,Married,35586
+5115018,38,Rarely,Analytics,30,CA,Male,70,3,1,Manager,5,1,7,1,24,17,0,0,Divorsed,21673
+5115019,27,Rarely,Analytics,27,Engineer,,68,5,4,Executive,2,0,2,1,24,2,1,1,Single,18340
+5115020,21,Rarely,Analytics,6,CA,Male,67,3,5,Executive,1,0,1,0,23,3,2,2,Single,18117
+5115021,35,Rarely,Sales,24,Statistics,Male,76,1,3,Manager,1,1,2,0,18,,6,8,Single,21337
+5115022,42,Rarely,Sales,3,Statistics,F,66,3,1,Manager,1,1,9,1,17,9,1,6,Single,21993
+5115023,57,No,Analytics,3,Statistics,Male,59,3,4,Manager,3,1,2,0,27,14,2,10,Married,22306
+5115024,26,Rarely,Analytics,22,CA,Male,69,3,2,Executive,2,0,4,0,17,8,2,3,Divorsed,19669
+5115025,45,Rarely,Analytics,21,CA,Male,79,3,4,AVP,1,1,0,1,19,21,4,10,Married,28496
+5115026,46,Rarely,Sales,1,Marketing Diploma,F,62,3,4,Senior Manager,5,0,1,0,30,24,15,7,Married,25453
+5115027,38,Rarely,Analytics,14,CA,Female,63,5,4,Manager,4,0,6,0,21,16,,1,Married,20777
+5115028,44,Rarely,Analytics,8,CA,F,42,4,5,Senior Manager,2,0,3,0,19,24,5,17,Divorsed,25248
+5115029,30,Rarely,Sales,3,Engineer,Male,,3,5,Executive,4,1,1,0,23,1,0,0,Divorsed,17476
+5115030,24,Rarely,Sales,1,Engineer,Female,62,3,2,Executive,4,1,1,1,21,6,1,4,Single,18202
+5115031,42,Rarely,Analytics,3,CA,Male,35,3,4,AVP,5,1,0,0,22,23,13,7,Divorsed,32665
+5115032,35,Rarely,Marketing,9,Engineer,Male,80,3,3,Executive,3,1,1,0,22,6,1,4,Single,19323
+5115033,29,Rarely,Analytics,9,CA,Male,79,4,5,Manager,2,1,1,1,20,10,1,2,Divorsed,20056
+5115034,42,Rarely,Sales,5,Statistics,F,63,3,2,AVP,5,1,8,0,22,23,12,9,Married,32595
+5115035,35,Rarely,Sales,4,Marketing Diploma,Male,34,3,4,Senior Manager,1,1,2,0,27,15,3,2,Single,25888
+5115036,38,Rarely,Sales,1,Statistics,F,59,4,5,Manager,2,1,4,0,27,12,0,3,Single,23686
+5115037,35,Rarely,Analytics,1,Statistics,Female,40,1,4,Executive,3,0,3,0,18,7,2,2,Single,17506
+5115038,36,Rarely,Analytics,11,Statistics,Male,38,1,5,Executive,1,1,2,0,25,2,1,2,M,18269
+5115039,45,Rarely,Analytics,18,CA,F,75,3,2,Senior Manager,1,0,2,0,17,11,1,6,Married,23978
+5115040,35,No,Analytics,3,Statistics,Female,61,3,1,Manager,5,1,2,0,16,16,0,0,Married,20093
+5115041,39,Rarely,Analytics,10,CA,Male,57,3,5,Manager,5,0,1,0,30,10,7,9,Married,20151
+5115042,51,Rarely,Analytics,5,CA,Male,64,3,5,VP,3,1,3,1,17,30,8,8,Divorsed,35237
+5115043,,Yes,Sales,13,Statistics,Male,74,4,2,Executive,5,0,1,0,23,1,0,0,Divorsed,17033
+5115044,28,Rarely,Sales,6,CA,Male,54,3,2,Manager,5,1,0,0,,6,1,3,Single,23463
+5115045,36,Rarely,Analytics,7,Statistics,Female,55,1,1,Executive,1,0,3,0,17,5,0,0,M,18038
+5115046,30,Rarely,,13,Marketing Diploma,Male,55,3,2,Executive,4,0,2,0,20,3,3,3,M,18297
+5115047,,Rarely,Sales,11,Marketing Diploma,Male,,3,5,Executive,4,1,1,0,19,2,2,2,M,17297
+5115048,55,Rarely,Analytics,9,CA,F,33,3,2,AVP,3,0,2,1,19,21,0,2,Married,29756
+5115049,33,No,Analytics,3,Statistics,Male,63,3,5,Executive,2,1,1,0,18,5,1,3,M,18314
+5115050,26,Rarely,Sales,8,Marketing Diploma,Male,48,4,5,Manager,3,0,2,1,17,7,1,4,Single,21744
+5115051,31,Yes,Analytics,21,Statistics,Male,66,3,1,Senior Manager,3,1,3,0,17,12,0,0,Divorsed,24824
+5115052,37,Rarely,Analytics,4,Other,Male,36,3,2,Senior Manager,3,1,1,0,20,10,7,8,Divorsed,24434
+5115053,36,Rarely,Analytics,28,CA,F,59,3,2,Senior Manager,3,0,2,1,17,17,11,2,Married,26388
+5115054,28,Rarely,Analytics,5,Statistics,,35,3,1,Executive,5,0,2,0,19,2,1,1,M,18341
+5115055,21,Rarely,Sales,,Marketing Diploma,Male,31,3,3,Executive,4,0,1,0,18,1,1,0,Single,17679
+5115056,44,Rarely,Analytics,16,CA,F,73,3,5,Senior Manager,1,1,1,0,,10,0,5,Married,22978
+5115057,32,Rarely,Sales,14,Statistics,Male,73,3,4,Manager,2,1,2,0,16,8,0,3,Married,19403
+5115058,46,Rarely,Sales,10,Marketing Diploma,Male,52,3,2,Senior Manager,1,1,4,0,16,28,4,3,Married,25096
+5115059,35,Rarely,Sales,5,Engineer,Male,56,3,3,Senior Manager,5,0,0,1,27,9,4,7,Single,24582
+5115060,55,Rarely,Analytics,23,Engineer,Male,64,4,4,Executive,4,0,5,0,17,8,1,2,M,18537
+5115061,38,Rarely,Analytics,3,CA,F,54,4,2,Senior Manager,3,1,3,1,,10,0,2,Married,22756
+5115062,32,Rarely,Analytics,30,Statistics,Female,49,4,1,Executive,4,1,1,0,18,6,4,1,Single,17837
+5115063,20,Rarely,Sales,,Statistics,Male,54,3,1,Executive,5,0,1,0,16,2,0,2,Single,17728
+5115064,49,Rarely,Sales,12,Marketing Diploma,F,43,3,1,Senior Manager,2,1,1,0,23,9,7,7,Divorsed,22654
+5115065,36,Rarely,Analytics,4,Statistics,Female,39,3,1,Executive,2,1,5,0,27,7,0,0,M,17835
+5115066,27,Rarely,Sales,3,Statistics,Male,74,3,4,Manager,3,0,1,1,16,5,0,4,Single,19478
+5115067,31,Rarely,Analytics,25,Statistics,Female,50,3,4,Executive,3,0,5,1,17,8,1,2,Divorsed,18132
+5115068,38,Yes,Analytics,,Statistics,Male,57,1,4,Executive,3,0,1,0,16,4,0,3,M,17610
+5115069,34,Rarely,Sales,11,Statistics,Male,48,3,5,Manager,5,0,3,0,19,9,3,3,Married,22392
+5115070,27,Rarely,Sales,3,Statistics,Male,74,3,1,Manager,3,0,1,1,16,5,0,4,Single,19478
+5115071,,No,Analytics,10,CA,Male,57,3,1,Executive,4,1,6,0,23,6,2,2,M,17024
+5115072,55,Rarely,Analytics,3,CA,F,56,3,1,AVP,2,0,7,0,25,30,13,8,Single,33328
+5115073,21,Rarely,Analytics,,Other,Female,65,3,3,Executive,2,0,1,0,24,1,0,0,Single,17693
+5115074,30,Rarely,Analytics,8,Statistics,Male,49,3,3,Manager,3,0,1,0,18,10,8,9,M,18491
+5115075,38,Rarely,Sales,10,Marketing Diploma,Male,68,4,2,Executive,4,1,0,0,24,3,1,2,Divorsed,17899
+5115076,38,Rarely,Analytics,3,CA,F,54,4,3,Senior Manager,3,1,3,1,,10,0,2,Married,22756
+5115077,36,Rarely,Sales,10,Statistics,Male,52,4,2,Manager,5,0,7,0,28,10,0,3,Single,18407
+5115078,45,Rarely,Sales,5,Statistics,Female,30,3,5,Manager,5,1,4,1,16,9,0,3,Married,20006
+5115079,34,Yes,Analytics,32,CA,Female,56,4,2,Manager,3,1,2,0,28,15,4,9,Single,20508
+5115080,50,Rarely,Analytics,25,Other,F,74,3,1,AVP,4,0,4,0,22,28,2,3,Married,32413
+5115081,,Rarely,Analytics,18,Statistics,Female,67,3,3,Executive,4,1,1,0,18,1,0,0,Divorsed,17210
+5115082,37,Yes,Analytics,21,CA,Female,75,3,1,Executive,2,0,2,0,19,9,2,8,Single,18153
+5115083,33,Yes,Analytics,8,Statistics,Female,49,1,2,Executive,3,1,4,1,20,5,1,4,Single,18432
+5115084,36,Rarely,Sales,12,Marketing Diploma,Female,80,4,3,Manager,1,0,4,0,18,8,0,0,Married,21652
+5115085,47,Rarely,Analytics,24,CA,F,68,3,4,Manager,4,0,5,0,28,14,4,8,Married,24926
+5115086,,Rarely,Analytics,24,Statistics,Male,54,3,4,Executive,2,1,9,0,21,6,1,2,Single,17201
+5115087,31,Yes,Sales,15,Statistics,Male,76,4,1,Executive,5,1,2,0,24,2,1,1,M,18033
+5115088,31,Yes,Sales,8,Marketing Diploma,F,68,3,5,Senior Manager,5,0,2,0,19,9,2,2,Married,24637
+5115089,39,Rarely,Analytics,13,CA,Male,66,3,3,Manager,4,1,4,0,26,7,1,0,Married,20295
+5115090,58,Rarely,Analytics,1,CA,F,76,3,5,VP,5,0,3,1,26,32,1,5,Divorsed,34701
+5115091,38,Rarely,Analytics,,Statistics,Female,43,3,5,Executive,5,0,3,0,22,8,0,0,Single,17619
+5115092,21,Yes,Analytics,,Statistics,Female,45,4,2,Executive,3,0,1,0,25,2,2,2,Single,17625
+5115093,61,Rarely,Sales,10,Marketing Diploma,Male,54,1,3,Manager,2,0,1,1,24,,2,10,Married,21220
+5115094,,Rarely,Sales,8,Statistics,Male,,3,1,Executive,1,0,1,1,26,3,0,2,M,17275
+5115095,50,Rarely,Analytics,4,Statistics,Male,38,3,3,AVP,3,1,5,0,20,24,1,1,Single,31379
+5115096,26,Yes,Analytics,1,Statistics,Female,54,3,4,Manager,4,1,1,0,25,,1,4,Married,21397
+5115097,57,Rarely,Analytics,11,Statistics,Female,69,3,1,Executive,5,0,5,1,24,20,3,3,Married,20257
+5115098,42,Rarely,Sales,23,Marketing Diploma,Female,72,3,4,Executive,4,1,2,1,28,5,1,3,Single,19140
+5115099,48,Rarely,Analytics,1,Statistics,F,40,4,3,AVP,5,1,7,0,16,21,0,2,Divorsed,30402
+5115100,52,Rarely,Analytics,9,Statistics,Male,53,3,5,VP,3,0,8,0,19,24,16,16,Single,35537
+5115101,56,Rarely,Sales,12,Marketing Diploma,Female,59,4,2,Manager,5,1,4,0,21,6,0,0,Married,20380
+5115102,35,Yes,Analytics,6,Statistics,Male,47,3,5,Manager,1,1,1,0,23,8,1,5,Single,23756
+5115103,35,Rarely,Analytics,24,CA,Female,30,3,4,Executive,5,0,3,1,20,4,2,,Married,19014
+5115104,51,Rarely,Analytics,5,CA,Male,66,3,2,AVP,3,1,6,0,22,31,1,4,Divorsed,33639
+5115105,34,Rarely,Analytics,,Engineer,Female,59,1,3,Executive,3,0,0,0,22,2,0,0,M,17585
+5115106,50,Yes,Analytics,1,Statistics,F,73,3,5,VP,4,0,3,1,24,28,0,7,Divorsed,33172
+5115107,25,Rarely,Sales,13,Marketing Diploma,Female,79,3,4,Manager,3,1,2,1,18,6,1,4,Married,20260
+5115108,30,No,Sales,26,Engineer,Female,55,3,4,Manager,3,0,7,1,17,4,2,2,Divorsed,19736
+5115109,46,Rarely,Sales,5,Marketing Diploma,F,66,5,2,VP,4,0,3,1,22,27,2,12,Single,34824
+5115110,46,Rarely,Analytics,9,Statistics,Female,74,4,4,Manager,5,1,8,1,28,19,1,7,Married,19615
+5115111,36,Rarely,Analytics,25,Statistics,Male,48,5,1,Executive,3,0,1,0,21,7,5,4,Single,20230
+5115112,32,No,Analytics,16,CA,Female,34,3,3,Manager,1,1,5,0,23,9,1,2,Married,21667
+5115113,31,Rarely,Analytics,23,CA,Male,68,3,5,Manager,3,1,1,1,20,,6,7,Divorsed,21179
+5115114,39,Rarely,Sales,4,CA,Female,41,3,3,Manager,3,0,4,1,23,12,0,0,Divorsed,20238
+5115115,30,Rarely,Analytics,6,CA,Male,59,3,1,Executive,5,0,2,1,24,11,2,6,Single,20723
+5115116,36,Rarely,Analytics,7,Statistics,Male,47,3,4,Executive,1,1,0,0,16,16,10,11,M,18210
+5115117,29,Rarely,Analytics,1,Engineer,Male,,4,3,Executive,5,0,6,0,18,11,0,7,Single,17362
+5115118,31,Rarely,Sales,6,Engineer,Male,51,3,3,Manager,3,1,1,0,,6,0,2,Married,23346
+5115119,42,Rarely,Analytics,4,Statistics,Female,65,1,5,Manager,1,1,2,1,18,17,1,3,Married,20231
+5115120,29,Yes,Analytics,,Statistics,Male,76,5,2,Executive,2,0,1,0,23,10,2,8,M,17720
+5115121,41,Rarely,Analytics,13,Engineer,F,49,3,4,VP,3,0,1,0,17,23,15,8,Divorsed,34545
+5115122,32,Yes,Sales,29,Marketing Diploma,Male,65,3,2,Manager,1,1,2,1,17,11,1,9,Married,21617
+5115123,44,Rarely,Analytics,30,Engineer,Male,59,1,3,Executive,4,0,6,0,18,9,,3,Married,20876
+5115124,34,Rarely,Sales,9,Statistics,Female,63,3,3,Manager,5,1,5,0,22,6,1,2,Divorsed,21500
+5115125,31,Rarely,Analytics,27,Statistics,Male,69,3,5,Executive,3,0,2,0,28,2,1,1,M,18693
+5115126,58,Rarely,Sales,11,CA,Male,37,3,1,AVP,3,0,0,0,18,38,1,8,Single,28872
+5115127,40,No,Analytics,12,Statistics,Male,72,3,3,Manager,4,1,21,0,,10,1,4,Single,22782
+5115128,47,Rarely,Sales,3,Marketing Diploma,Female,35,3,3,Manager,2,0,0,1,27,8,7,7,Divorsed,19537
+5115129,46,Rarely,Analytics,22,CA,F,66,3,1,Manager,4,1,4,0,27,13,3,7,Married,23926
+5115130,59,No,Analytics,3,Statistics,Male,34,5,1,Manager,3,0,3,1,19,13,2,3,Married,21660
+5115131,28,No,Marketing,,Statistics,Male,43,3,3,Executive,1,1,1,0,20,3,2,2,M,17706
+5115132,37,Rarely,Analytics,5,CA,Male,81,3,4,Executive,3,1,5,0,27,17,4,10,Single,18519
+5115133,50,Rarely,Analytics,11,Other,F,53,3,5,Senior Manager,4,0,5,0,,30,2,8,Married,23403
+5115134,38,Rarely,Analytics,30,Engineer,Male,54,3,5,Manager,2,1,3,0,23,,1,7,Divorsed,21261
+5115135,38,Rarely,Analytics,3,Engineer,F,61,3,2,Senior Manager,1,1,5,0,,13,2,3,Single,23491
+5115136,33,Rarely,Sales,10,Marketing Diploma,F,77,3,1,Manager,5,1,0,1,,6,0,3,Single,23224
+5115137,40,Rarely,Marketing,7,CA,Male,38,3,4,AVP,1,1,1,1,26,21,7,7,Single,31437
+5115138,27,Rarely,Analytics,3,Statistics,Female,47,3,2,Manager,2,0,0,0,23,4,2,2,Divorsed,19227
+5115139,28,Rarely,Analytics,3,Statistics,Male,67,4,2,Executive,4,0,0,0,22,6,0,4,Divorsed,18201
+5115140,27,Rarely,Sales,7,Marketing Diploma,Male,50,4,2,Manager,2,1,2,1,18,9,8,5,Single,21828
+5115141,21,Rarely,Analytics,13,CA,Male,34,3,1,Executive,3,0,2,1,17,2,2,2,Single,17009
+5115142,26,Rarely,Sales,5,Marketing Diploma,Male,48,4,1,Manager,1,0,1,1,17,8,,4,Single,20828
+5115143,33,Yes,Analytics,8,Statistics,Female,49,1,1,Executive,3,0,4,1,20,9,1,4,Single,18432
+5115144,37,Rarely,Analytics,29,Statistics,Male,82,3,3,Manager,3,0,7,0,20,,1,3,Married,21347
+5115145,34,Rarely,Analytics,,CA,Male,63,3,4,Executive,1,0,0,0,16,3,1,2,M,17661
+5115146,32,Rarely,Analytics,6,Statistics,Male,56,4,3,Manager,1,0,8,0,29,8,0,0,Single,24679
+5115147,40,Rarely,Analytics,12,CA,Male,59,3,5,Manager,5,0,2,0,31,,8,10,Married,21151
+5115148,31,Rarely,Sales,11,Other,Male,64,3,2,Senior Manager,3,0,6,0,,11,8,8,Married,23264
+5115149,,Rarely,Analytics,6,Statistics,Male,,2,3,Executive,4,1,1,1,21,4,2,2,M,17328
+5115150,37,No,Analytics,11,Statistics,F,65,2,3,Senior Manager,5,0,10,0,20,11,1,6,Divorsed,27713
+5115151,28,Rarely,Analytics,18,Engineer,Male,,4,3,Executive,1,0,5,0,17,6,0,3,M,17367
+5115152,27,No,Analytics,,CA,Male,79,4,5,Executive,3,1,1,1,20,1,0,1,M,17566
+5115153,29,Rarely,Analytics,,Statistics,Male,76,3,5,Executive,4,0,0,0,28,6,0,4,M,17703
+5115154,56,No,Analytics,11,CA,Male,39,4,5,AVP,4,1,2,1,21,35,16,1,Married,29577
+5115155,40,Yes,Analytics,10,CA,Male,35,3,5,Executive,4,1,8,1,19,3,0,0,M,18617
+5115156,30,Rarely,Analytics,24,Statistics,F,53,2,4,Senior Manager,5,0,2,0,17,11,9,9,Married,25980
+5115157,50,Rarely,Analytics,25,Statistics,Male,65,3,1,AVP,3,0,3,1,23,22,1,5,Divorsed,28973
+5115158,37,Rarely,Sales,16,Marketing Diploma,Male,68,4,3,Manager,5,0,6,1,19,17,3,3,Married,22134
+5115159,48,No,Analytics,17,Engineer,Male,66,3,2,Manager,4,0,9,0,24,17,2,8,Married,21467
+5115160,,Rarely,Analytics,4,Statistics,Male,70,4,4,Executive,2,1,3,0,22,7,0,0,Divorsed,17177
+5115161,32,Yes,Analytics,3,Statistics,F,82,1,4,Senior Manager,4,0,2,0,,11,5,8,Single,23446
+5115162,32,Rarely,Analytics,8,Statistics,Male,79,3,1,Manager,3,1,1,0,23,10,1,1,Married,19883
+5115163,29,No,Analytics,27,Engineer,Male,74,4,3,Senior Manager,5,1,2,0,18,11,2,10,Single,24722
+5115164,33,Yes,Sales,8,Statistics,Female,30,3,1,Manager,4,0,0,0,22,4,0,2,Divorsed,19302
+5115165,33,Rarely,Sales,6,Marketing Diploma,Female,34,3,4,Executive,3,1,1,1,18,1,0,0,Single,17851
+5115166,44,Rarely,Analytics,9,CA,Female,75,4,3,Manager,3,0,2,1,20,21,2,9,Single,20081
+5115167,43,Rarely,Analytics,15,Statistics,Male,64,3,4,AVP,5,0,6,0,29,22,1,0,Married,
+5115168,37,Rarely,Sales,12,Statistics,Male,54,4,1,Executive,5,1,8,0,29,11,1,4,Single,19407
+5115169,47,Rarely,Sales,13,Marketing Diploma,F,66,4,5,Senior Manager,1,1,3,1,25,16,2,3,Married,25071
+5115170,52,Rarely,Sales,3,Marketing Diploma,F,57,5,2,VP,2,0,1,0,20,33,6,9,Divorsed,34845
+5115171,34,Rarely,Sales,13,Marketing Diploma,Male,54,1,2,Senior Manager,3,1,1,1,20,11,1,9,Married,24380
+5115172,,Yes,Analytics,26,Statistics,Female,66,3,3,Executive,4,1,1,1,24,10,7,8,M,17022
+5115173,40,Rarely,Analytics,21,Statistics,Male,34,3,4,Manager,3,0,1,0,17,10,2,8,Single,20534
+5115174,47,Rarely,Sales,5,Marketing Diploma,F,71,3,3,AVP,5,1,9,0,29,29,16,10,Divorsed,33048
+5115175,,Rarely,Analytics,20,CA,Male,,3,4,Executive,1,0,1,0,29,2,2,2,M,17323
+5115176,36,Rarely,Analytics,13,CA,F,53,3,3,Manager,3,0,4,1,22,11,1,5,Single,22142
+5115177,,Rarely,Marketing,9,CA,Female,66,1,4,Executive,4,1,9,0,23,8,0,2,Single,17109
+5115178,29,Rarely,Analytics,,CA,Female,62,4,2,Executive,1,1,6,0,19,8,0,3,M,17532
+5115179,26,Rarely,Marketing,26,Statistics,Female,61,3,4,Executive,3,0,1,0,28,8,5,7,Divorsed,17942
+5115180,,Yes,Sales,13,Statistics,Male,74,4,3,Executive,5,1,1,0,23,1,0,0,Divorsed,17033
